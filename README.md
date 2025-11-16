@@ -9,7 +9,7 @@
 
 上記のリンクのREADME内にある **"Project CodeNet full dataset: Project_CodeNet.tar.gz"** をクリックし、データをダウンロードしてください。
 
-解凍後、"metadata"フォルダをそのまま本リポジトリのdataフォルダ内に移動してください。
+解凍後、中にある"metadata"フォルダをそのまま本リポジトリのdataフォルダ内に移動してください。
 
 コードの言語はPython 3.9.6です。カレントディレクトリがCodeNet_analysys_iyの状態で実行してください。 **pandas** を使用するので、
 **pip install pandas** 
