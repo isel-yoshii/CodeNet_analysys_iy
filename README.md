@@ -48,3 +48,16 @@
 分類方法は、[オンラインジャッジシステムにおける問題難易度に着目したエラーの調査](https://esa-storage-tokyo.s3-ap-northeast-1.amazonaws.com/uploads/production/attachments/21530/2025/05/28/182552/1bbba696-279f-4238-aa3b-8dedb13585f4.pdf)の2~3ページの手法に従います。
 
 ユーザのグループ分けを標準出力し、["output/user_grouping/user_counts.csv"](https://github.com/isel-yoshii/CodeNet_analysys_iy/blob/main/output/user_grouping/user_counts.csv)に保存します。また、各ユーザに関する情報を["output/user_grouping/users.csv"](https://github.com/isel-yoshii/CodeNet_analysys_iy/blob/main/output/user_grouping/users.csv)に保存します。
+
+## ユーザ分けの結果
+| グループ | 人数（user_grouping.py）| 人数（参考にした研究） |
+| --- | --- | --- |
+| G1 | 8312 | 5137 |
+| G2 | 15799 | 11356 |
+| G3 | 21802 | 18704 |
+| G4 | 21411 | 24336 |
+| G5 | 11358 | 13416 |
+| G6 | 10776 | 14364 |
+| 合計 | 89458 | 87313 |
+
+ユーザ分けの結果は以上のようになり、不一致でした。
