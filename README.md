@@ -15,6 +15,8 @@
 **pip install pandas** 
 コマンドなどでインストールしてください。
 
+**(2025/12/3追記)処理内容について、一部訂正があります。詳細は本ファイル下部をご覧ください。**
+
 ## ABC.py
 "data/metadata/problem_list.csv"から、AtCoder Beginner Contest（ABC）に属する問題のみを抽出し、["output/ABC/problem_list_ABC.csv"](https://github.com/isel-yoshii/CodeNet_analysys_iy/blob/main/output/ABC/problem_list_ABC.csv)に保存します。
 
@@ -61,3 +63,44 @@
 | 合計 | 89458 | 87313 |
 
 ユーザ分けの結果は以上のようになり、不一致でした。
+
+## 2025/12/3修正内容
+- これまでは"AtCoder Beginner Contest"という名前を含まないAtCoder Beginner Contest(例：Sumitomo Mitsui Trust Bank Programming Contest 2019)についての提出を使用していましたが、それらのコンテストの提出を扱わず、AtCoder Beginner Contestの提出だけを使用するように変更しました。
+- 提出の結果を示す"status"項目について、内容が以下の5つ以外である提出は、提出数としてカウントしないようにしました。
+
+ ・Accepted
+
+ ・Wrong Answer
+
+ ・Runtime Error
+
+ ・Time Limit Exceeded
+
+ ・Compile Error
+
+- 参考にした研究の論文のグループ分けに誤りがあったため、次の表の通りに訂正しました。
+
+
+| グループ | 人数（参考にした研究）| 
+| --- | --- |
+| G1 | 8177 | 
+| G2 | 15649 | 
+| G3 | 21753 |
+| G4 | 21349 | 
+| G5 | 11292 |
+| G6 | 10652 |
+| 合計 | 88872 |
+
+
+以上の変更を適用し、ユーザをグループ分けした結果、次の表の通りにになりました。
+| グループ | 人数（user_grouping.py）| 
+| --- | --- |
+| G1 | 8177 | 
+| G2 | 15649 | 
+| G3 | 21753 |
+| G4 | 21349 | 
+| G5 | 11292 |
+| G6 | 10652 |
+| 合計 | 88872 |
+
+このグループ分けは、参考にした研究でのグループ分けと一致しています。
