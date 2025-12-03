@@ -35,6 +35,14 @@ def new_user():
 #chunksize設定
 CHUNK = 4096
 
+VALID_STATUS = {
+    "Accepted",
+    "Wrong Answer",
+    "Runtime Error",
+    "Time Limit Exceeded",
+    "Compile Error"
+}
+
 for csv_name in sorted(os.listdir(metadata_dir)):
     #CSV以外・辞書にない問題はスキップ
     if not csv_name.endswith(".csv"):
@@ -76,6 +84,10 @@ for csv_name in sorted(os.listdir(metadata_dir)):
         for row in tmp.itertuples(index=False):
             user = str(row.user_id)
             status = str(row.status) if getattr(row, "status", None) is not None else ""
+
+            #対象外の判定は無視
+            if status not in VALID_STATUS:
+                continue
 
             if user not in users:
                 users[user] = new_user()
