@@ -1,0 +1,81 @@
+difficulty,first_error,from_state,to_state,sessions,ac_sessions,ac_rate
+C,Wrong Answer,Wrong Answer,Wrong Answer,138002,105118,0.76171
+C,Wrong Answer,Wrong Answer,Accepted,212045,209610,0.98852
+C,Wrong Answer,Wrong Answer,Compile Error,9407,7390,0.78559
+C,Wrong Answer,Compile Error,Accepted,3581,3520,0.98297
+C,Wrong Answer,Wrong Answer,Time Limit Exceeded,10083,6708,0.66528
+C,Wrong Answer,Time Limit Exceeded,Time Limit Exceeded,3524,2235,0.63422
+C,Wrong Answer,Time Limit Exceeded,Wrong Answer,3296,2291,0.69508
+C,Wrong Answer,Time Limit Exceeded,Compile Error,343,233,0.6793
+C,Wrong Answer,Compile Error,Compile Error,1386,1037,0.7482
+C,Wrong Answer,Compile Error,Wrong Answer,5651,4070,0.72023
+C,Wrong Answer,Wrong Answer,Runtime Error,12380,9232,0.74572
+C,Wrong Answer,Runtime Error,Accepted,5153,5045,0.97904
+C,Wrong Answer,Time Limit Exceeded,Accepted,4125,4023,0.97527
+C,Wrong Answer,Runtime Error,Wrong Answer,6239,4470,0.71646
+C,Wrong Answer,Time Limit Exceeded,Runtime Error,835,575,0.68862
+C,Wrong Answer,Runtime Error,Time Limit Exceeded,611,382,0.6252
+C,Wrong Answer,Runtime Error,Runtime Error,3537,2524,0.7136
+C,Wrong Answer,Runtime Error,Compile Error,235,174,0.74043
+C,Wrong Answer,Compile Error,Runtime Error,314,210,0.66879
+C,Wrong Answer,Compile Error,Time Limit Exceeded,303,185,0.61056
+C,Runtime Error,Runtime Error,Accepted,26893,26634,0.99037
+C,Runtime Error,Runtime Error,Runtime Error,19170,13145,0.68571
+C,Runtime Error,Runtime Error,Time Limit Exceeded,3598,2195,0.61006
+C,Runtime Error,Time Limit Exceeded,Time Limit Exceeded,1485,863,0.58114
+C,Runtime Error,Time Limit Exceeded,Wrong Answer,973,637,0.65468
+C,Runtime Error,Wrong Answer,Time Limit Exceeded,909,526,0.57866
+C,Runtime Error,Time Limit Exceeded,Runtime Error,697,457,0.65567
+C,Runtime Error,Runtime Error,Wrong Answer,15807,11200,0.70855
+C,Runtime Error,Wrong Answer,Wrong Answer,8096,5521,0.68194
+C,Runtime Error,Time Limit Exceeded,Accepted,1601,1575,0.98376
+C,Runtime Error,Runtime Error,Compile Error,1356,913,0.6733
+C,Runtime Error,Compile Error,Accepted,510,500,0.98039
+C,Runtime Error,Compile Error,Compile Error,325,201,0.61846
+C,Runtime Error,Wrong Answer,Accepted,10335,10235,0.99032
+C,Runtime Error,Wrong Answer,Compile Error,457,325,0.71116
+C,Runtime Error,Wrong Answer,Runtime Error,2228,1540,0.6912
+C,Runtime Error,Compile Error,Wrong Answer,543,348,0.64088
+C,Runtime Error,Compile Error,Runtime Error,663,414,0.62443
+C,Runtime Error,Time Limit Exceeded,Compile Error,104,57,0.54808
+C,Runtime Error,Compile Error,Time Limit Exceeded,91,45,0.49451
+C,Time Limit Exceeded,Time Limit Exceeded,Accepted,32077,32027,0.99844
+C,Time Limit Exceeded,Time Limit Exceeded,Wrong Answer,14599,10550,0.72265
+C,Time Limit Exceeded,Wrong Answer,Accepted,9365,9351,0.99851
+C,Time Limit Exceeded,Time Limit Exceeded,Time Limit Exceeded,21641,13799,0.63763
+C,Time Limit Exceeded,Wrong Answer,Time Limit Exceeded,2993,1757,0.58704
+C,Time Limit Exceeded,Time Limit Exceeded,Compile Error,1378,937,0.67997
+C,Time Limit Exceeded,Compile Error,Compile Error,322,217,0.67391
+C,Time Limit Exceeded,Compile Error,Time Limit Exceeded,538,291,0.54089
+C,Time Limit Exceeded,Time Limit Exceeded,Runtime Error,4475,3058,0.68335
+C,Time Limit Exceeded,Runtime Error,Accepted,2062,2057,0.99758
+C,Time Limit Exceeded,Runtime Error,Runtime Error,1486,953,0.64132
+C,Time Limit Exceeded,Compile Error,Wrong Answer,583,393,0.6741
+C,Time Limit Exceeded,Runtime Error,Time Limit Exceeded,1488,901,0.60551
+C,Time Limit Exceeded,Compile Error,Accepted,594,590,0.99327
+C,Time Limit Exceeded,Wrong Answer,Wrong Answer,6159,4363,0.70839
+C,Time Limit Exceeded,Runtime Error,Wrong Answer,1100,741,0.67364
+C,Time Limit Exceeded,Compile Error,Runtime Error,118,69,0.58475
+C,Time Limit Exceeded,Runtime Error,Compile Error,96,58,0.60417
+C,Time Limit Exceeded,Wrong Answer,Compile Error,477,343,0.71908
+C,Time Limit Exceeded,Wrong Answer,Runtime Error,841,575,0.68371
+C,Compile Error,Compile Error,Accepted,12533,12533,1.0
+C,Compile Error,Compile Error,Wrong Answer,9381,6467,0.68937
+C,Compile Error,Compile Error,Compile Error,5792,4082,0.70477
+C,Compile Error,Compile Error,Time Limit Exceeded,1314,769,0.58524
+C,Compile Error,Time Limit Exceeded,Accepted,602,602,1.0
+C,Compile Error,Wrong Answer,Compile Error,1407,939,0.66738
+C,Compile Error,Time Limit Exceeded,Time Limit Exceeded,541,313,0.57856
+C,Compile Error,Time Limit Exceeded,Wrong Answer,446,284,0.63677
+C,Compile Error,Wrong Answer,Time Limit Exceeded,492,286,0.5813
+C,Compile Error,Wrong Answer,Accepted,6152,6152,1.0
+C,Compile Error,Compile Error,Runtime Error,2151,1298,0.60344
+C,Compile Error,Runtime Error,Accepted,858,858,1.0
+C,Compile Error,Wrong Answer,Wrong Answer,4858,3249,0.66879
+C,Compile Error,Time Limit Exceeded,Compile Error,255,173,0.67843
+C,Compile Error,Runtime Error,Runtime Error,1007,567,0.56306
+C,Compile Error,Runtime Error,Wrong Answer,775,504,0.65032
+C,Compile Error,Wrong Answer,Runtime Error,380,245,0.64474
+C,Compile Error,Time Limit Exceeded,Runtime Error,95,53,0.55789
+C,Compile Error,Runtime Error,Time Limit Exceeded,113,59,0.52212
+C,Compile Error,Runtime Error,Compile Error,340,210,0.61765

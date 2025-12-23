@@ -1,0 +1,1651 @@
+from_status,to_status,delta_time,prev_invalid,group,user_id,problem_id
+Time Limit Exceeded,Runtime Error,216,False,G1,u581441811,p02546
+Runtime Error,Runtime Error,115,False,G1,u581441811,p02546
+Runtime Error,Accepted,26,False,G1,u581441811,p02546
+Time Limit Exceeded,Accepted,481,False,G1,u098872622,p02552
+Time Limit Exceeded,Accepted,33,False,G6,u656771711,p02552
+Time Limit Exceeded,Wrong Answer,217,False,G3,u247457760,p02576
+Wrong Answer,Wrong Answer,54,False,G3,u247457760,p02576
+Wrong Answer,Accepted,319,False,G3,u247457760,p02576
+Time Limit Exceeded,Accepted,719,False,,u279008384,p02576
+Time Limit Exceeded,Wrong Answer,369,False,G3,u307169063,p02576
+Wrong Answer,Accepted,1846,False,G3,u307169063,p02576
+Time Limit Exceeded,Wrong Answer,393,False,G3,u403375297,p02576
+Wrong Answer,Accepted,156,False,G3,u403375297,p02576
+Time Limit Exceeded,Accepted,156,False,,u798213498,p02576
+Time Limit Exceeded,Wrong Answer,140,False,G4,u089481820,p02582
+Wrong Answer,Accepted,220,False,G4,u089481820,p02582
+Time Limit Exceeded,Time Limit Exceeded,20,False,G5,u196953553,p02582
+Time Limit Exceeded,Time Limit Exceeded,40,False,G5,u196953553,p02582
+Time Limit Exceeded,Accepted,35,False,G6,u229051304,p02582
+Time Limit Exceeded,Accepted,16,False,G6,u246127272,p02582
+Time Limit Exceeded,Wrong Answer,28,False,G5,u404420811,p02582
+Wrong Answer,Wrong Answer,179,False,G5,u404420811,p02582
+Wrong Answer,Accepted,35,False,G5,u404420811,p02582
+Time Limit Exceeded,Wrong Answer,42,False,G5,u405337522,p02582
+Wrong Answer,Accepted,109,False,G5,u405337522,p02582
+Time Limit Exceeded,Compile Error,45,False,G1,u413860554,p02582
+Compile Error,Wrong Answer,304,False,G1,u413860554,p02582
+Wrong Answer,Accepted,233,False,G1,u413860554,p02582
+Time Limit Exceeded,Time Limit Exceeded,231,False,G2,u433311401,p02582
+Time Limit Exceeded,Wrong Answer,179,False,G2,u433311401,p02582
+Wrong Answer,Accepted,94,False,G2,u433311401,p02582
+Time Limit Exceeded,Accepted,41,False,G6,u486906248,p02582
+Time Limit Exceeded,Accepted,44,False,G6,u652421746,p02582
+Time Limit Exceeded,Accepted,50,False,G5,u670975923,p02582
+Time Limit Exceeded,Accepted,30,False,G5,u685978216,p02582
+Time Limit Exceeded,Wrong Answer,98,False,G2,u703646047,p02582
+Wrong Answer,Wrong Answer,82,False,G2,u703646047,p02582
+Wrong Answer,Wrong Answer,94,False,G2,u703646047,p02582
+Wrong Answer,Wrong Answer,46,False,G2,u703646047,p02582
+Wrong Answer,Wrong Answer,50,False,G2,u703646047,p02582
+Wrong Answer,Accepted,87,False,G2,u703646047,p02582
+Time Limit Exceeded,Accepted,60,False,G3,u883604779,p02582
+Time Limit Exceeded,Wrong Answer,567,False,G3,u993037852,p02582
+Wrong Answer,Wrong Answer,80,False,G3,u993037852,p02582
+Time Limit Exceeded,Wrong Answer,250,False,G6,u455472057,p02594
+Wrong Answer,Accepted,45,False,G6,u455472057,p02594
+Time Limit Exceeded,Wrong Answer,11,False,G4,u581967233,p02594
+Wrong Answer,Wrong Answer,86,False,G4,u581967233,p02594
+Wrong Answer,Wrong Answer,40,False,G4,u581967233,p02594
+Wrong Answer,Accepted,50,False,G4,u581967233,p02594
+Time Limit Exceeded,Accepted,67,False,G4,u912162189,p02594
+Time Limit Exceeded,Wrong Answer,516,False,G3,u060605369,p02612
+Wrong Answer,Accepted,135,False,G3,u060605369,p02612
+Time Limit Exceeded,Accepted,31,False,G4,u112729374,p02612
+Time Limit Exceeded,Accepted,40,False,G3,u178957871,p02612
+Time Limit Exceeded,Time Limit Exceeded,253,False,G2,u221031502,p02612
+Time Limit Exceeded,Time Limit Exceeded,79,False,G2,u221031502,p02612
+Time Limit Exceeded,Wrong Answer,389,False,G2,u221031502,p02612
+Wrong Answer,Wrong Answer,259,False,G2,u221031502,p02612
+Wrong Answer,Wrong Answer,947,False,G2,u221031502,p02612
+Wrong Answer,Wrong Answer,120,False,G2,u221031502,p02612
+Wrong Answer,Accepted,158,False,G2,u221031502,p02612
+Time Limit Exceeded,Time Limit Exceeded,792,False,G4,u264508862,p02612
+Time Limit Exceeded,Accepted,75,False,,u403151431,p02612
+Time Limit Exceeded,Compile Error,50,False,G4,u491656579,p02612
+Compile Error,Accepted,38,False,G4,u491656579,p02612
+Time Limit Exceeded,Wrong Answer,30,False,G5,u607642775,p02612
+Wrong Answer,Accepted,86,False,G5,u607642775,p02612
+Time Limit Exceeded,Accepted,175,False,G4,u642697080,p02612
+Time Limit Exceeded,Compile Error,744,False,G2,u659546390,p02612
+Compile Error,Time Limit Exceeded,152,False,G2,u659546390,p02612
+Time Limit Exceeded,Wrong Answer,33861,False,G2,u659546390,p02612
+Wrong Answer,Time Limit Exceeded,600,False,G2,u659546390,p02612
+Time Limit Exceeded,Accepted,768,False,G2,u659546390,p02612
+Time Limit Exceeded,Accepted,167,False,G3,u701063973,p02612
+Time Limit Exceeded,Time Limit Exceeded,529,False,G2,u741255094,p02612
+Time Limit Exceeded,Accepted,227,False,G2,u741255094,p02612
+Time Limit Exceeded,Accepted,56,False,G2,u818967913,p02612
+Time Limit Exceeded,Time Limit Exceeded,241,False,G1,u861277199,p02612
+Time Limit Exceeded,Accepted,222,False,G1,u861277199,p02612
+Time Limit Exceeded,Time Limit Exceeded,14052,False,G6,u863370423,p02612
+Time Limit Exceeded,Accepted,218,False,G6,u863370423,p02612
+Time Limit Exceeded,Accepted,403,False,G1,u873369049,p02612
+Time Limit Exceeded,Time Limit Exceeded,1301,False,G2,u887493548,p02612
+Time Limit Exceeded,Accepted,3046,False,G2,u887493548,p02612
+Time Limit Exceeded,Accepted,275,False,G1,u968087868,p02612
+Time Limit Exceeded,Accepted,112,False,G6,u163783894,p02621
+Time Limit Exceeded,Time Limit Exceeded,184,False,,u058047592,p02627
+Time Limit Exceeded,Accepted,34,False,G5,u831412344,p02627
+Time Limit Exceeded,Wrong Answer,331,False,G4,u003009081,p02639
+Wrong Answer,Accepted,73,False,G4,u003009081,p02639
+Time Limit Exceeded,Compile Error,180,False,G4,u047590349,p02639
+Compile Error,Accepted,95,False,G4,u047590349,p02639
+Time Limit Exceeded,Accepted,454,False,G6,u061173591,p02639
+Time Limit Exceeded,Accepted,5197,False,G6,u089230684,p02639
+Time Limit Exceeded,Accepted,35,False,G5,u118452388,p02639
+Time Limit Exceeded,Time Limit Exceeded,92,False,G5,u228312426,p02639
+Time Limit Exceeded,Accepted,586,False,G5,u228312426,p02639
+Time Limit Exceeded,Accepted,190,False,G3,u273605963,p02639
+Time Limit Exceeded,Accepted,234,False,G3,u335796978,p02639
+Time Limit Exceeded,Time Limit Exceeded,121,False,G2,u340731231,p02639
+Time Limit Exceeded,Accepted,178,False,G2,u340731231,p02639
+Time Limit Exceeded,Accepted,308,False,G5,u381378028,p02639
+Time Limit Exceeded,Accepted,47,False,G5,u476054945,p02639
+Time Limit Exceeded,Time Limit Exceeded,144,False,G2,u488213454,p02639
+Time Limit Exceeded,Wrong Answer,567,False,G2,u488213454,p02639
+Wrong Answer,Wrong Answer,112,False,G2,u488213454,p02639
+Wrong Answer,Wrong Answer,2976,False,G2,u488213454,p02639
+Wrong Answer,Wrong Answer,368,False,G2,u488213454,p02639
+Wrong Answer,Wrong Answer,36,False,G2,u488213454,p02639
+Wrong Answer,Accepted,225,False,G2,u488213454,p02639
+Time Limit Exceeded,Compile Error,212,False,G6,u503464790,p02639
+Compile Error,Time Limit Exceeded,71,False,G6,u503464790,p02639
+Time Limit Exceeded,Accepted,621,False,G6,u503464790,p02639
+Time Limit Exceeded,Accepted,191,False,G6,u520758800,p02639
+Time Limit Exceeded,Compile Error,147,False,G6,u588800877,p02639
+Compile Error,Time Limit Exceeded,104,False,G6,u588800877,p02639
+Time Limit Exceeded,Runtime Error,96,False,G6,u588800877,p02639
+Runtime Error,Accepted,134,False,G6,u588800877,p02639
+Time Limit Exceeded,Accepted,172,False,G2,u599667933,p02639
+Time Limit Exceeded,Accepted,145,False,G5,u613569650,p02639
+Time Limit Exceeded,Time Limit Exceeded,68,False,G5,u645507769,p02639
+Time Limit Exceeded,Accepted,121,False,G5,u645507769,p02639
+Time Limit Exceeded,Accepted,111,False,G5,u649811088,p02639
+Time Limit Exceeded,Accepted,42,False,G3,u696408327,p02639
+Time Limit Exceeded,Time Limit Exceeded,214,False,G3,u697472263,p02639
+Time Limit Exceeded,Compile Error,73,False,G3,u697472263,p02639
+Compile Error,Accepted,82,False,G3,u697472263,p02639
+Time Limit Exceeded,Runtime Error,986,False,G4,u721448709,p02639
+Time Limit Exceeded,Accepted,343,False,G3,u750143627,p02639
+Time Limit Exceeded,Accepted,4766,False,G3,u834428892,p02639
+Time Limit Exceeded,Accepted,274,False,G3,u901738963,p02639
+Time Limit Exceeded,Wrong Answer,44,False,G4,u745861782,p02657
+Time Limit Exceeded,Wrong Answer,501,False,G5,u207477485,p02675
+Wrong Answer,Accepted,381,False,G5,u207477485,p02675
+Time Limit Exceeded,Wrong Answer,188,False,G3,u501325458,p02675
+Wrong Answer,Accepted,157,False,G3,u501325458,p02675
+Time Limit Exceeded,Accepted,130,False,G4,u541567517,p02675
+Time Limit Exceeded,Accepted,293,False,G2,u297555429,p02681
+Time Limit Exceeded,Time Limit Exceeded,128,False,G3,u422669329,p02681
+Time Limit Exceeded,Time Limit Exceeded,335,False,G3,u422669329,p02681
+Time Limit Exceeded,Accepted,228,False,G3,u422669329,p02681
+Time Limit Exceeded,Accepted,91,False,G6,u607741489,p02681
+Time Limit Exceeded,Time Limit Exceeded,76,False,G4,u809036603,p02681
+Time Limit Exceeded,Accepted,60,False,G4,u809036603,p02681
+Time Limit Exceeded,Compile Error,306,False,G2,u838671371,p02681
+Compile Error,Accepted,69,False,G2,u838671371,p02681
+Time Limit Exceeded,Accepted,4144,False,G6,u018679195,p02693
+Time Limit Exceeded,Wrong Answer,1406,False,G3,u047618457,p02693
+Wrong Answer,Wrong Answer,89,False,G3,u047618457,p02693
+Wrong Answer,Accepted,156,False,G3,u047618457,p02693
+Time Limit Exceeded,Accepted,213,False,G5,u088989565,p02693
+Time Limit Exceeded,Accepted,498,False,G4,u092415958,p02693
+Time Limit Exceeded,Wrong Answer,511,False,G3,u137639704,p02693
+Time Limit Exceeded,Accepted,319,False,G5,u160036974,p02693
+Time Limit Exceeded,Wrong Answer,26,False,G5,u168366489,p02693
+Wrong Answer,Accepted,54,False,G5,u168366489,p02693
+Time Limit Exceeded,Time Limit Exceeded,134,False,G4,u209561309,p02693
+Time Limit Exceeded,Accepted,81,False,G4,u209561309,p02693
+Time Limit Exceeded,Accepted,136,False,G2,u230222410,p02693
+Time Limit Exceeded,Time Limit Exceeded,44,False,G4,u265118937,p02693
+Time Limit Exceeded,Accepted,1248,False,G4,u265118937,p02693
+Time Limit Exceeded,Runtime Error,441,False,G1,u402418627,p02693
+Runtime Error,Runtime Error,746,False,G1,u402418627,p02693
+Runtime Error,Runtime Error,330,False,G1,u402418627,p02693
+Runtime Error,Accepted,63,False,G1,u402418627,p02693
+Time Limit Exceeded,Accepted,16447,False,G5,u414920281,p02693
+Time Limit Exceeded,Accepted,167,False,G6,u491376630,p02693
+Time Limit Exceeded,Wrong Answer,127,False,G4,u522185720,p02693
+Wrong Answer,Wrong Answer,50,False,G4,u522185720,p02693
+Wrong Answer,Accepted,114,False,G4,u522185720,p02693
+Time Limit Exceeded,Accepted,125,False,G5,u548601871,p02693
+Time Limit Exceeded,Wrong Answer,69,False,G3,u553183019,p02693
+Time Limit Exceeded,Wrong Answer,33,False,G4,u643679148,p02693
+Wrong Answer,Wrong Answer,370,False,G4,u643679148,p02693
+Wrong Answer,Accepted,68,False,G4,u643679148,p02693
+Time Limit Exceeded,Accepted,688,False,G4,u697634943,p02693
+Time Limit Exceeded,Accepted,26,False,G6,u698760125,p02693
+Time Limit Exceeded,Accepted,79,False,G2,u732881374,p02693
+Time Limit Exceeded,Accepted,69,False,G5,u948233576,p02693
+Time Limit Exceeded,Wrong Answer,79,False,G5,u973108807,p02693
+Wrong Answer,Wrong Answer,235,False,G5,u973108807,p02693
+Wrong Answer,Wrong Answer,52,False,G5,u973108807,p02693
+Wrong Answer,Accepted,35,False,G5,u973108807,p02693
+Time Limit Exceeded,Accepted,167,False,G3,u007738720,p02699
+Time Limit Exceeded,Wrong Answer,1278,False,G4,u100493327,p02699
+Time Limit Exceeded,Wrong Answer,243,False,G3,u893402295,p02699
+Wrong Answer,Wrong Answer,596,False,G3,u893402295,p02699
+Wrong Answer,Wrong Answer,680,False,G3,u893402295,p02699
+Wrong Answer,Wrong Answer,83,False,G3,u893402295,p02699
+Wrong Answer,Accepted,64,False,G3,u893402295,p02699
+Time Limit Exceeded,Accepted,141,False,G6,u004311543,p02711
+Time Limit Exceeded,Accepted,161,False,G3,u084101398,p02711
+Time Limit Exceeded,Time Limit Exceeded,40,False,G3,u090392649,p02711
+Time Limit Exceeded,Accepted,48,False,G3,u090392649,p02711
+Time Limit Exceeded,Accepted,25,False,G5,u098844816,p02711
+Time Limit Exceeded,Wrong Answer,1884,False,G5,u099022530,p02711
+Wrong Answer,Accepted,175,False,G5,u099022530,p02711
+Time Limit Exceeded,Accepted,65,False,G5,u110044127,p02711
+Time Limit Exceeded,Accepted,119,False,G6,u158327311,p02711
+Time Limit Exceeded,Accepted,54,False,G4,u277492727,p02711
+Time Limit Exceeded,Accepted,408,False,G5,u429793253,p02711
+Time Limit Exceeded,Accepted,31,False,G6,u441096482,p02711
+Time Limit Exceeded,Wrong Answer,1828,False,G3,u459689470,p02711
+Wrong Answer,Runtime Error,210,False,G3,u459689470,p02711
+Runtime Error,Accepted,490,False,G3,u459689470,p02711
+Time Limit Exceeded,Accepted,44,False,G6,u469336014,p02711
+Time Limit Exceeded,Wrong Answer,91,False,G4,u472020816,p02711
+Wrong Answer,Accepted,377,False,G4,u472020816,p02711
+Time Limit Exceeded,Accepted,219,False,G4,u483885980,p02711
+Time Limit Exceeded,Accepted,336,False,G4,u568075443,p02711
+Time Limit Exceeded,Accepted,283,False,G3,u588267753,p02711
+Time Limit Exceeded,Accepted,824,False,G5,u631271972,p02711
+Time Limit Exceeded,Accepted,80,False,G3,u641500793,p02711
+Time Limit Exceeded,Wrong Answer,137,False,G4,u677962407,p02711
+Wrong Answer,Accepted,251,False,G4,u677962407,p02711
+Time Limit Exceeded,Accepted,1210,False,G5,u715543161,p02711
+Time Limit Exceeded,Time Limit Exceeded,227,False,G2,u766626319,p02711
+Time Limit Exceeded,Wrong Answer,134,False,G2,u766626319,p02711
+Wrong Answer,Accepted,994,False,G2,u766626319,p02711
+Time Limit Exceeded,Compile Error,558,False,G1,u923214581,p02711
+Compile Error,Wrong Answer,80,False,G1,u923214581,p02711
+Wrong Answer,Wrong Answer,75,False,G1,u923214581,p02711
+Time Limit Exceeded,Time Limit Exceeded,14,False,G6,u925096764,p02711
+Time Limit Exceeded,Wrong Answer,72,False,G6,u925096764,p02711
+Wrong Answer,Accepted,93,False,G6,u925096764,p02711
+Time Limit Exceeded,Accepted,30,False,G4,u925953803,p02711
+Time Limit Exceeded,Accepted,19,False,G5,u927520692,p02711
+Time Limit Exceeded,Accepted,402,False,G4,u951746552,p02711
+Time Limit Exceeded,Accepted,26,False,G4,u962620948,p02711
+Time Limit Exceeded,Accepted,693,False,G4,u974882644,p02711
+Time Limit Exceeded,Accepted,40,False,G6,u588369531,p02717
+Time Limit Exceeded,Accepted,344,False,G5,u879294842,p02717
+Time Limit Exceeded,Accepted,57,False,G4,u113081402,p02723
+Time Limit Exceeded,Accepted,159,False,G2,u131957401,p02723
+Time Limit Exceeded,Compile Error,615,False,G3,u141184925,p02723
+Compile Error,Time Limit Exceeded,67,False,G3,u141184925,p02723
+Time Limit Exceeded,Accepted,200,False,G3,u141184925,p02723
+Time Limit Exceeded,Wrong Answer,29,False,G6,u248209126,p02723
+Wrong Answer,Time Limit Exceeded,40,False,G6,u248209126,p02723
+Time Limit Exceeded,Wrong Answer,26,False,G6,u248209126,p02723
+Wrong Answer,Wrong Answer,49,False,G6,u248209126,p02723
+Wrong Answer,Wrong Answer,123,False,G6,u248209126,p02723
+Time Limit Exceeded,Accepted,455,False,G3,u260687914,p02723
+Time Limit Exceeded,Accepted,23,False,G4,u471078637,p02723
+Time Limit Exceeded,Time Limit Exceeded,1230,False,G3,u554335977,p02723
+Time Limit Exceeded,Accepted,170,False,G3,u554335977,p02723
+Time Limit Exceeded,Accepted,265,False,G2,u691794877,p02723
+Time Limit Exceeded,Accepted,110,False,G6,u087140485,p02729
+Time Limit Exceeded,Time Limit Exceeded,199,False,G4,u163052359,p02729
+Time Limit Exceeded,Wrong Answer,1251,False,G4,u163052359,p02729
+Time Limit Exceeded,Compile Error,98,False,G5,u207948013,p02729
+Compile Error,Time Limit Exceeded,157,False,G5,u207948013,p02729
+Time Limit Exceeded,Accepted,130,False,G5,u207948013,p02729
+Time Limit Exceeded,Compile Error,133,False,G3,u217862992,p02729
+Compile Error,Compile Error,67,False,G3,u217862992,p02729
+Compile Error,Accepted,193,False,G3,u217862992,p02729
+Time Limit Exceeded,Accepted,59,False,G5,u237536401,p02729
+Time Limit Exceeded,Accepted,722,False,G6,u244203620,p02729
+Time Limit Exceeded,Accepted,155,False,G4,u290524875,p02729
+Time Limit Exceeded,Accepted,150,False,G5,u305141544,p02729
+Time Limit Exceeded,Time Limit Exceeded,1085,False,G3,u327241892,p02729
+Time Limit Exceeded,Time Limit Exceeded,175,False,G4,u332097983,p02729
+Time Limit Exceeded,Accepted,2948,False,G4,u332097983,p02729
+Time Limit Exceeded,Accepted,324,False,G3,u341841060,p02729
+Time Limit Exceeded,Accepted,3928,False,G4,u365957351,p02729
+Time Limit Exceeded,Compile Error,183,False,G3,u378782369,p02729
+Time Limit Exceeded,Accepted,78,False,G5,u447096097,p02729
+Time Limit Exceeded,Accepted,496,False,G4,u472020816,p02729
+Time Limit Exceeded,Accepted,154,False,G4,u497121366,p02729
+Time Limit Exceeded,Accepted,283,False,G5,u543467961,p02729
+Time Limit Exceeded,Accepted,302,False,G2,u548861924,p02729
+Time Limit Exceeded,Runtime Error,1102,False,G4,u551020541,p02729
+Runtime Error,Runtime Error,55,False,G4,u551020541,p02729
+Runtime Error,Runtime Error,168,False,G4,u551020541,p02729
+Runtime Error,Runtime Error,71,False,G4,u551020541,p02729
+Runtime Error,Runtime Error,226,False,G4,u551020541,p02729
+Runtime Error,Runtime Error,69,False,G4,u551020541,p02729
+Runtime Error,Runtime Error,63,False,G4,u551020541,p02729
+Runtime Error,Accepted,307,False,G4,u551020541,p02729
+Time Limit Exceeded,Accepted,157,False,G6,u563321291,p02729
+Time Limit Exceeded,Accepted,138,False,G1,u593394811,p02729
+Time Limit Exceeded,Compile Error,324,False,G3,u615968644,p02729
+Compile Error,Accepted,684,False,G3,u615968644,p02729
+Time Limit Exceeded,Time Limit Exceeded,263,False,G4,u643639028,p02729
+Time Limit Exceeded,Time Limit Exceeded,298,False,G4,u643639028,p02729
+Time Limit Exceeded,Time Limit Exceeded,619,False,G4,u643639028,p02729
+Time Limit Exceeded,Compile Error,1397,False,G4,u643639028,p02729
+Compile Error,Accepted,31,False,G4,u643639028,p02729
+Time Limit Exceeded,Accepted,1579,False,G4,u654949547,p02729
+Time Limit Exceeded,Accepted,237,False,G4,u702051956,p02729
+Time Limit Exceeded,Wrong Answer,1001,False,G3,u705765200,p02729
+Wrong Answer,Wrong Answer,158,False,G3,u705765200,p02729
+Wrong Answer,Accepted,87,False,G3,u705765200,p02729
+Time Limit Exceeded,Wrong Answer,406,False,G4,u712918628,p02729
+Wrong Answer,Accepted,134,False,G4,u712918628,p02729
+Time Limit Exceeded,Wrong Answer,1738,False,G4,u740267532,p02729
+Wrong Answer,Wrong Answer,170,False,G4,u740267532,p02729
+Wrong Answer,Wrong Answer,233,False,G4,u740267532,p02729
+Wrong Answer,Wrong Answer,68,False,G4,u740267532,p02729
+Wrong Answer,Time Limit Exceeded,139,False,G4,u740267532,p02729
+Time Limit Exceeded,Time Limit Exceeded,49,False,G4,u740267532,p02729
+Time Limit Exceeded,Accepted,49,False,G4,u740267532,p02729
+Time Limit Exceeded,Runtime Error,126,False,G5,u823186531,p02729
+Runtime Error,Time Limit Exceeded,731,False,G5,u823186531,p02729
+Time Limit Exceeded,Time Limit Exceeded,167,False,G3,u834985008,p02729
+Time Limit Exceeded,Accepted,211,False,G3,u834985008,p02729
+Time Limit Exceeded,Accepted,433,False,G5,u980875259,p02729
+Time Limit Exceeded,Accepted,309,False,G5,u189056821,p02753
+Time Limit Exceeded,Wrong Answer,186,False,G4,u285497176,p02753
+Wrong Answer,Wrong Answer,259,False,G4,u285497176,p02753
+Wrong Answer,Wrong Answer,72,False,G4,u285497176,p02753
+Wrong Answer,Accepted,125,False,G4,u285497176,p02753
+Time Limit Exceeded,Runtime Error,916,False,G2,u508601576,p02753
+Runtime Error,Runtime Error,328,False,G2,u508601576,p02753
+Runtime Error,Runtime Error,569,False,G2,u508601576,p02753
+Runtime Error,Runtime Error,966,False,G2,u508601576,p02753
+Time Limit Exceeded,Time Limit Exceeded,342,False,G6,u832473530,p02753
+Time Limit Exceeded,Time Limit Exceeded,146,False,G5,u094528535,p02759
+Time Limit Exceeded,Accepted,65,False,G6,u129643292,p02759
+Time Limit Exceeded,Accepted,730,False,G6,u463295948,p02759
+Time Limit Exceeded,Time Limit Exceeded,108,False,G5,u305950321,p02765
+Time Limit Exceeded,Runtime Error,340,False,G5,u627214330,p02765
+Runtime Error,Time Limit Exceeded,420,False,G5,u627214330,p02765
+Time Limit Exceeded,Accepted,120,False,G5,u627214330,p02765
+Time Limit Exceeded,Wrong Answer,232,False,G6,u142582032,p02771
+Wrong Answer,Wrong Answer,519,False,G6,u142582032,p02771
+Wrong Answer,Wrong Answer,242,False,G6,u142582032,p02771
+Wrong Answer,Wrong Answer,108,False,G6,u142582032,p02771
+Wrong Answer,Wrong Answer,42,False,G6,u142582032,p02771
+Wrong Answer,Accepted,88,False,G6,u142582032,p02771
+Time Limit Exceeded,Accepted,2786,False,G3,u307310233,p02771
+Time Limit Exceeded,Accepted,33475,False,G6,u089230684,p02777
+Time Limit Exceeded,Accepted,44,False,G6,u305757380,p02777
+Time Limit Exceeded,Accepted,69,False,G3,u346148497,p02777
+Time Limit Exceeded,Time Limit Exceeded,114,False,G5,u429063220,p02777
+Time Limit Exceeded,Runtime Error,10809,False,G6,u018679195,p02783
+Runtime Error,Runtime Error,8322,False,G6,u018679195,p02783
+Runtime Error,Runtime Error,865,False,G6,u018679195,p02783
+Runtime Error,Accepted,1740,False,G6,u018679195,p02783
+Time Limit Exceeded,Compile Error,487,False,G6,u018679195,p02783
+Time Limit Exceeded,Runtime Error,1367,False,G3,u182146635,p02783
+Runtime Error,Wrong Answer,148,False,G3,u182146635,p02783
+Wrong Answer,Runtime Error,299,False,G3,u182146635,p02783
+Runtime Error,Compile Error,172,False,G3,u182146635,p02783
+Compile Error,Compile Error,83,False,G3,u182146635,p02783
+Compile Error,Wrong Answer,26,False,G3,u182146635,p02783
+Wrong Answer,Time Limit Exceeded,172,False,G3,u182146635,p02783
+Time Limit Exceeded,Compile Error,292,False,G3,u182146635,p02783
+Compile Error,Compile Error,32,False,G3,u182146635,p02783
+Compile Error,Runtime Error,38,False,G3,u182146635,p02783
+Runtime Error,Accepted,515,False,G3,u182146635,p02783
+Time Limit Exceeded,Time Limit Exceeded,49,False,G3,u264547551,p02783
+Time Limit Exceeded,Accepted,101,False,G3,u264547551,p02783
+Time Limit Exceeded,Wrong Answer,1645,False,G1,u339877632,p02783
+Wrong Answer,Wrong Answer,219,False,G1,u339877632,p02783
+Time Limit Exceeded,Time Limit Exceeded,414,False,G3,u372584319,p02783
+Time Limit Exceeded,Wrong Answer,78,False,G3,u372584319,p02783
+Wrong Answer,Wrong Answer,77,False,G3,u372584319,p02783
+Wrong Answer,Wrong Answer,49,False,G3,u372584319,p02783
+Wrong Answer,Wrong Answer,187,False,G3,u372584319,p02783
+Wrong Answer,Accepted,225,False,G3,u372584319,p02783
+Time Limit Exceeded,Accepted,760,False,G6,u465638326,p02783
+Time Limit Exceeded,Runtime Error,110,False,G6,u486906248,p02783
+Runtime Error,Compile Error,49,False,G6,u486906248,p02783
+Compile Error,Accepted,38,False,G6,u486906248,p02783
+Time Limit Exceeded,Time Limit Exceeded,781,False,,u488948629,p02783
+Time Limit Exceeded,Wrong Answer,98,False,G5,u562015767,p02783
+Time Limit Exceeded,Accepted,220,False,G4,u564600733,p02783
+Time Limit Exceeded,Accepted,282,False,G5,u671204079,p02783
+Time Limit Exceeded,Wrong Answer,60,False,G3,u684458716,p02783
+Wrong Answer,Time Limit Exceeded,19,False,G3,u684458716,p02783
+Time Limit Exceeded,Time Limit Exceeded,487,False,G3,u684458716,p02783
+Time Limit Exceeded,Wrong Answer,51,False,G3,u684458716,p02783
+Wrong Answer,Runtime Error,57,False,G3,u684458716,p02783
+Runtime Error,Accepted,89,False,G3,u684458716,p02783
+Time Limit Exceeded,Compile Error,386,False,G2,u786105158,p02783
+Compile Error,Time Limit Exceeded,28,False,G2,u786105158,p02783
+Time Limit Exceeded,Time Limit Exceeded,9002,False,G2,u786105158,p02783
+Time Limit Exceeded,Wrong Answer,89,False,G2,u786105158,p02783
+Wrong Answer,Wrong Answer,44,False,G2,u786105158,p02783
+Wrong Answer,Wrong Answer,151,False,G2,u786105158,p02783
+Wrong Answer,Compile Error,55,False,G2,u786105158,p02783
+Compile Error,Time Limit Exceeded,55,False,G2,u786105158,p02783
+Time Limit Exceeded,Compile Error,44,False,G2,u786105158,p02783
+Compile Error,Wrong Answer,31,False,G2,u786105158,p02783
+Wrong Answer,Compile Error,166,False,G2,u786105158,p02783
+Compile Error,Time Limit Exceeded,31,False,G2,u786105158,p02783
+Time Limit Exceeded,Compile Error,468,False,G2,u786105158,p02783
+Compile Error,Compile Error,35,False,G2,u786105158,p02783
+Compile Error,Compile Error,36,False,G2,u786105158,p02783
+Compile Error,Accepted,33,False,G2,u786105158,p02783
+Time Limit Exceeded,Compile Error,13457,False,G2,u872474958,p02783
+Compile Error,Time Limit Exceeded,98,False,G2,u872474958,p02783
+Time Limit Exceeded,Wrong Answer,350,False,G2,u872474958,p02783
+Wrong Answer,Wrong Answer,433,False,G2,u872474958,p02783
+Wrong Answer,Accepted,124,False,G2,u872474958,p02783
+Time Limit Exceeded,Accepted,48,False,G3,u975879124,p02783
+Time Limit Exceeded,Time Limit Exceeded,140,False,G4,u992172879,p02783
+Time Limit Exceeded,Accepted,218,False,G4,u992172879,p02783
+Time Limit Exceeded,Accepted,303,False,G2,u263768452,p02789
+Time Limit Exceeded,Accepted,177,False,G6,u189884068,p02801
+Time Limit Exceeded,Accepted,376,False,G4,u764875505,p02801
+Time Limit Exceeded,Time Limit Exceeded,665,False,G6,u822169805,p02811
+Time Limit Exceeded,Accepted,68,False,G6,u202370403,p02847
+Time Limit Exceeded,Time Limit Exceeded,198,False,G1,u717680445,p02847
+Time Limit Exceeded,Compile Error,146,False,G1,u717680445,p02847
+Compile Error,Wrong Answer,204,False,G1,u717680445,p02847
+Wrong Answer,Compile Error,311,False,G1,u717680445,p02847
+Compile Error,Accepted,99,False,G1,u717680445,p02847
+Time Limit Exceeded,Time Limit Exceeded,328,False,G3,u890085018,p02847
+Time Limit Exceeded,Runtime Error,77,False,G3,u890085018,p02847
+Runtime Error,Runtime Error,54,False,G3,u890085018,p02847
+Runtime Error,Time Limit Exceeded,25,False,G3,u890085018,p02847
+Time Limit Exceeded,Runtime Error,168,False,G3,u890085018,p02847
+Runtime Error,Accepted,548,False,G3,u890085018,p02847
+Time Limit Exceeded,Compile Error,66,False,G6,u926025622,p02847
+Compile Error,Wrong Answer,31,False,G6,u926025622,p02847
+Wrong Answer,Wrong Answer,1373,False,G6,u926025622,p02847
+Time Limit Exceeded,Time Limit Exceeded,152,False,G5,u458500794,p02859
+Time Limit Exceeded,Accepted,138,False,G5,u458500794,p02859
+Time Limit Exceeded,Accepted,12,False,G6,u134181243,p02879
+Time Limit Exceeded,Wrong Answer,31052,False,G4,u236540805,p02879
+Wrong Answer,Wrong Answer,81,False,G4,u236540805,p02879
+Wrong Answer,Wrong Answer,6528,False,G4,u236540805,p02879
+Wrong Answer,Accepted,2318,False,G4,u236540805,p02879
+Time Limit Exceeded,Accepted,641,False,G4,u309502988,p02879
+Time Limit Exceeded,Wrong Answer,34,False,G5,u414777969,p02879
+Wrong Answer,Accepted,48,False,G5,u414777969,p02879
+Time Limit Exceeded,Wrong Answer,10989,False,G4,u616533264,p02879
+Wrong Answer,Wrong Answer,6316,False,G4,u616533264,p02879
+Time Limit Exceeded,Accepted,681,False,G6,u620626180,p02879
+Time Limit Exceeded,Wrong Answer,90,False,G6,u126737379,p02885
+Wrong Answer,Wrong Answer,783,False,G6,u126737379,p02885
+Wrong Answer,Wrong Answer,2950,False,G6,u126737379,p02885
+Wrong Answer,Wrong Answer,109,False,G6,u126737379,p02885
+Time Limit Exceeded,Accepted,41600,False,G6,u018679195,p02897
+Time Limit Exceeded,Accepted,1099,False,G6,u057633934,p02897
+Time Limit Exceeded,Runtime Error,620,False,G6,u089230684,p02897
+Runtime Error,Accepted,9821,False,G6,u089230684,p02897
+Time Limit Exceeded,Runtime Error,8249,False,G6,u246401216,p02897
+Time Limit Exceeded,Runtime Error,1248,False,G4,u660656075,p02897
+Time Limit Exceeded,Runtime Error,682,False,G6,u863370423,p02897
+Runtime Error,Runtime Error,332,False,G6,u863370423,p02897
+Runtime Error,Runtime Error,159,False,G6,u863370423,p02897
+Runtime Error,Accepted,86,False,G6,u863370423,p02897
+Time Limit Exceeded,Accepted,86,False,G6,u023223236,p02909
+Time Limit Exceeded,Accepted,19449,False,G2,u149073695,p02909
+Time Limit Exceeded,Accepted,69,False,G5,u415671616,p02909
+Time Limit Exceeded,Accepted,159,False,G6,u714587753,p02909
+Time Limit Exceeded,Compile Error,2767,False,G2,u866462771,p02909
+Time Limit Exceeded,Time Limit Exceeded,7,False,G5,u892679578,p02909
+Time Limit Exceeded,Time Limit Exceeded,54,False,G5,u892679578,p02909
+Time Limit Exceeded,Accepted,564,False,G5,u892679578,p02909
+Time Limit Exceeded,Time Limit Exceeded,244,False,G2,u075914964,p02915
+Time Limit Exceeded,Compile Error,176,False,G2,u075914964,p02915
+Compile Error,Accepted,49,False,G2,u075914964,p02915
+Time Limit Exceeded,Accepted,106,False,G5,u276234834,p02915
+Time Limit Exceeded,Time Limit Exceeded,320,False,G2,u276737521,p02915
+Time Limit Exceeded,Wrong Answer,46,False,,u487045649,p02915
+Wrong Answer,Accepted,109,False,,u487045649,p02915
+Time Limit Exceeded,Runtime Error,12519,False,G2,u552761221,p02915
+Runtime Error,Runtime Error,83,False,G2,u552761221,p02915
+Runtime Error,Accepted,7116,False,G2,u552761221,p02915
+Time Limit Exceeded,Wrong Answer,134,False,G2,u047958511,p02921
+Wrong Answer,Wrong Answer,170,False,G2,u047958511,p02921
+Wrong Answer,Wrong Answer,45,False,G2,u047958511,p02921
+Wrong Answer,Accepted,42,False,G2,u047958511,p02921
+Time Limit Exceeded,Accepted,1071,False,G1,u093111123,p02921
+Time Limit Exceeded,Time Limit Exceeded,430,False,G2,u099793607,p02921
+Time Limit Exceeded,Wrong Answer,382,False,G2,u099793607,p02921
+Wrong Answer,Accepted,99,False,G2,u099793607,p02921
+Time Limit Exceeded,Time Limit Exceeded,363,False,G6,u260184649,p02921
+Time Limit Exceeded,Accepted,115,False,G5,u329407311,p02921
+Time Limit Exceeded,Accepted,23,False,G4,u486773779,p02921
+Time Limit Exceeded,Runtime Error,2359,False,G2,u552761221,p02921
+Runtime Error,Accepted,225,False,G2,u552761221,p02921
+Time Limit Exceeded,Accepted,137,False,G6,u596372590,p02921
+Time Limit Exceeded,Wrong Answer,70,False,G3,u679419784,p02921
+Time Limit Exceeded,Accepted,186,False,G4,u685726857,p02921
+Time Limit Exceeded,Accepted,55,False,G4,u904995051,p02921
+Time Limit Exceeded,Compile Error,3728,False,G4,u041991318,p02933
+Time Limit Exceeded,Accepted,880,False,G2,u250543040,p02933
+Time Limit Exceeded,Accepted,551,False,G6,u506255180,p02933
+Time Limit Exceeded,Accepted,229,False,G4,u529550578,p02933
+Time Limit Exceeded,Accepted,354,False,G2,u843648629,p02933
+Time Limit Exceeded,Accepted,44,False,G3,u894812989,p02933
+Time Limit Exceeded,Accepted,1118,False,G6,u917972976,p02933
+Time Limit Exceeded,Wrong Answer,563,False,G6,u089230684,p02945
+Wrong Answer,Wrong Answer,125,False,G6,u089230684,p02945
+Time Limit Exceeded,Accepted,192,False,G6,u134181243,p02945
+Time Limit Exceeded,Accepted,273,False,G5,u276234834,p02945
+Time Limit Exceeded,Accepted,28,False,G1,u601685273,p02945
+Time Limit Exceeded,Accepted,38,False,G3,u507591519,p02951
+Time Limit Exceeded,Compile Error,164,False,G3,u544511937,p02951
+Compile Error,Runtime Error,285,False,G3,u544511937,p02951
+Runtime Error,Wrong Answer,50,False,G3,u544511937,p02951
+Wrong Answer,Accepted,388,False,G3,u544511937,p02951
+Time Limit Exceeded,Time Limit Exceeded,242,False,G3,u010777300,p02957
+Time Limit Exceeded,Wrong Answer,170,False,G3,u010777300,p02957
+Time Limit Exceeded,Wrong Answer,1509,False,G4,u015875086,p02957
+Wrong Answer,Accepted,3639,False,G4,u015875086,p02957
+Time Limit Exceeded,Wrong Answer,129,False,G6,u018679195,p02957
+Wrong Answer,Wrong Answer,3363,False,G6,u018679195,p02957
+Wrong Answer,Accepted,54,False,G6,u018679195,p02957
+Time Limit Exceeded,Accepted,26673,False,G6,u018679195,p02957
+Time Limit Exceeded,Accepted,580,False,G4,u020639289,p02957
+Time Limit Exceeded,Accepted,730,False,G4,u034777138,p02957
+Time Limit Exceeded,Accepted,717,False,G5,u046482892,p02957
+Time Limit Exceeded,Accepted,882,False,G4,u075298186,p02957
+Time Limit Exceeded,Accepted,1765,False,G6,u089230684,p02957
+Time Limit Exceeded,Accepted,247,False,G2,u090032260,p02957
+Time Limit Exceeded,Accepted,212,False,G3,u094000715,p02957
+Time Limit Exceeded,Time Limit Exceeded,226,False,G2,u106214933,p02957
+Time Limit Exceeded,Accepted,321,False,G2,u106214933,p02957
+Time Limit Exceeded,Accepted,238,False,G4,u111160776,p02957
+Time Limit Exceeded,Accepted,910,False,G5,u143051858,p02957
+Time Limit Exceeded,Accepted,554,False,,u160229706,p02957
+Time Limit Exceeded,Accepted,316,False,G3,u185767120,p02957
+Time Limit Exceeded,Accepted,88,False,G4,u194978939,p02957
+Time Limit Exceeded,Accepted,1391,False,G3,u198035909,p02957
+Time Limit Exceeded,Wrong Answer,269,False,G5,u202826462,p02957
+Wrong Answer,Accepted,145,False,G5,u202826462,p02957
+Time Limit Exceeded,Accepted,541,False,G4,u214887789,p02957
+Time Limit Exceeded,Wrong Answer,356,False,G2,u231852111,p02957
+Time Limit Exceeded,Time Limit Exceeded,117,False,G3,u237702300,p02957
+Time Limit Exceeded,Time Limit Exceeded,224,False,G3,u237702300,p02957
+Time Limit Exceeded,Accepted,638,False,G3,u237702300,p02957
+Time Limit Exceeded,Accepted,985,False,G3,u250363929,p02957
+Time Limit Exceeded,Accepted,145,False,G6,u251779460,p02957
+Time Limit Exceeded,Accepted,588,False,G5,u253475244,p02957
+Time Limit Exceeded,Time Limit Exceeded,310,False,G1,u255057114,p02957
+Time Limit Exceeded,Accepted,1616,False,G1,u255057114,p02957
+Time Limit Exceeded,Accepted,1171,False,G3,u255959024,p02957
+Time Limit Exceeded,Wrong Answer,234,False,G1,u267933821,p02957
+Wrong Answer,Accepted,78,False,G1,u267933821,p02957
+Time Limit Exceeded,Wrong Answer,228,False,G5,u271934630,p02957
+Wrong Answer,Accepted,632,False,G5,u271934630,p02957
+Time Limit Exceeded,Wrong Answer,275,False,G4,u281745878,p02957
+Wrong Answer,Accepted,155,False,G4,u281745878,p02957
+Time Limit Exceeded,Accepted,1405,False,G4,u314559067,p02957
+Time Limit Exceeded,Accepted,1799,False,G5,u314642288,p02957
+Time Limit Exceeded,Accepted,90,False,G5,u314693739,p02957
+Time Limit Exceeded,Wrong Answer,309,False,G4,u317845566,p02957
+Wrong Answer,Wrong Answer,500,False,G4,u317845566,p02957
+Wrong Answer,Wrong Answer,384,False,G4,u317845566,p02957
+Wrong Answer,Accepted,55,False,G4,u317845566,p02957
+Time Limit Exceeded,Time Limit Exceeded,1487,False,G4,u333731247,p02957
+Time Limit Exceeded,Accepted,310,False,G5,u337626942,p02957
+Time Limit Exceeded,Wrong Answer,390,False,G2,u340299906,p02957
+Wrong Answer,Compile Error,229,False,G2,u340299906,p02957
+Compile Error,Wrong Answer,37,False,G2,u340299906,p02957
+Wrong Answer,Accepted,492,False,G2,u340299906,p02957
+Time Limit Exceeded,Accepted,164,False,G5,u343463670,p02957
+Time Limit Exceeded,Accepted,583,False,G3,u357184158,p02957
+Time Limit Exceeded,Wrong Answer,441,False,G4,u363599046,p02957
+Wrong Answer,Wrong Answer,33,False,G4,u363599046,p02957
+Time Limit Exceeded,Time Limit Exceeded,51,False,G5,u369190981,p02957
+Time Limit Exceeded,Accepted,88,False,G5,u369190981,p02957
+Time Limit Exceeded,Time Limit Exceeded,1030,False,G4,u370865069,p02957
+Time Limit Exceeded,Wrong Answer,3443,False,G4,u370865069,p02957
+Wrong Answer,Accepted,186,False,G4,u370865069,p02957
+Time Limit Exceeded,Accepted,235,False,G4,u373265899,p02957
+Time Limit Exceeded,Accepted,100,False,G4,u382639013,p02957
+Time Limit Exceeded,Wrong Answer,1588,False,G5,u387775763,p02957
+Wrong Answer,Wrong Answer,41,False,G5,u387775763,p02957
+Wrong Answer,Accepted,1180,False,G5,u387775763,p02957
+Time Limit Exceeded,Compile Error,4258,False,G3,u388372553,p02957
+Compile Error,Wrong Answer,244,False,G3,u388372553,p02957
+Wrong Answer,Wrong Answer,46,False,G3,u388372553,p02957
+Wrong Answer,Accepted,2738,False,G3,u388372553,p02957
+Time Limit Exceeded,Wrong Answer,1536,False,G4,u399973890,p02957
+Wrong Answer,Wrong Answer,1315,False,G4,u399973890,p02957
+Wrong Answer,Wrong Answer,108,False,G4,u399973890,p02957
+Time Limit Exceeded,Accepted,4018,False,G4,u407005073,p02957
+Time Limit Exceeded,Accepted,405,False,G3,u409614401,p02957
+Time Limit Exceeded,Runtime Error,618,False,G3,u422921872,p02957
+Runtime Error,Accepted,141,False,G3,u422921872,p02957
+Time Limit Exceeded,Accepted,112,False,G6,u423624748,p02957
+Time Limit Exceeded,Wrong Answer,1361,False,G3,u428341537,p02957
+Wrong Answer,Wrong Answer,1176,False,G3,u428341537,p02957
+Wrong Answer,Accepted,247,False,G3,u428341537,p02957
+Time Limit Exceeded,Compile Error,115,False,G3,u431125128,p02957
+Compile Error,Compile Error,26,False,G3,u431125128,p02957
+Compile Error,Accepted,18,False,G3,u431125128,p02957
+Time Limit Exceeded,Wrong Answer,242,False,G5,u445624660,p02957
+Wrong Answer,Accepted,154,False,G5,u445624660,p02957
+Time Limit Exceeded,Time Limit Exceeded,1167,False,,u465171275,p02957
+Time Limit Exceeded,Accepted,266,False,G3,u466266920,p02957
+Time Limit Exceeded,Accepted,357,False,G4,u466371843,p02957
+Time Limit Exceeded,Time Limit Exceeded,437,False,G2,u468459569,p02957
+Time Limit Exceeded,Compile Error,383,False,G2,u468459569,p02957
+Compile Error,Time Limit Exceeded,90,False,G2,u468459569,p02957
+Time Limit Exceeded,Time Limit Exceeded,210,False,G2,u468459569,p02957
+Time Limit Exceeded,Accepted,594,False,G2,u468459569,p02957
+Time Limit Exceeded,Accepted,1249,False,G4,u468482169,p02957
+Time Limit Exceeded,Wrong Answer,160,False,G5,u474377871,p02957
+Wrong Answer,Accepted,266,False,G5,u474377871,p02957
+Time Limit Exceeded,Wrong Answer,571,False,,u492985294,p02957
+Wrong Answer,Wrong Answer,160,False,,u492985294,p02957
+Time Limit Exceeded,Wrong Answer,552,False,G2,u506441365,p02957
+Wrong Answer,Accepted,219,False,G2,u506441365,p02957
+Time Limit Exceeded,Runtime Error,109,False,G3,u507351902,p02957
+Runtime Error,Runtime Error,333,False,G3,u507351902,p02957
+Runtime Error,Runtime Error,241,False,G3,u507351902,p02957
+Runtime Error,Time Limit Exceeded,82,False,G3,u507351902,p02957
+Time Limit Exceeded,Wrong Answer,1279,False,G3,u507351902,p02957
+Wrong Answer,Wrong Answer,56,False,G3,u507351902,p02957
+Wrong Answer,Wrong Answer,44,False,G3,u507351902,p02957
+Wrong Answer,Wrong Answer,103,False,G3,u507351902,p02957
+Wrong Answer,Accepted,267,False,G3,u507351902,p02957
+Time Limit Exceeded,Accepted,86,False,G3,u507591519,p02957
+Time Limit Exceeded,Accepted,945,False,G4,u511449169,p02957
+Time Limit Exceeded,Accepted,78,False,G4,u511501183,p02957
+Time Limit Exceeded,Accepted,601,False,G3,u516579758,p02957
+Time Limit Exceeded,Wrong Answer,100,False,G3,u534282583,p02957
+Wrong Answer,Time Limit Exceeded,25,False,G3,u534282583,p02957
+Time Limit Exceeded,Wrong Answer,276,False,G3,u534282583,p02957
+Wrong Answer,Wrong Answer,34,False,G3,u534282583,p02957
+Wrong Answer,Time Limit Exceeded,405,False,G3,u534282583,p02957
+Time Limit Exceeded,Time Limit Exceeded,53,False,G3,u534282583,p02957
+Time Limit Exceeded,Runtime Error,70,False,G3,u534282583,p02957
+Runtime Error,Time Limit Exceeded,51,False,G3,u534282583,p02957
+Time Limit Exceeded,Runtime Error,3958,False,G3,u534282583,p02957
+Time Limit Exceeded,Accepted,560,False,G4,u536308232,p02957
+Time Limit Exceeded,Accepted,302,False,G4,u537507471,p02957
+Time Limit Exceeded,Wrong Answer,135,False,G3,u557136512,p02957
+Time Limit Exceeded,Accepted,319,False,G4,u565093947,p02957
+Time Limit Exceeded,Time Limit Exceeded,43,False,G4,u568419568,p02957
+Time Limit Exceeded,Accepted,102,False,G4,u568419568,p02957
+Time Limit Exceeded,Accepted,58,False,G4,u572073783,p02957
+Time Limit Exceeded,Time Limit Exceeded,59,False,G4,u573545768,p02957
+Time Limit Exceeded,Accepted,690,False,G4,u573545768,p02957
+Time Limit Exceeded,Wrong Answer,154,False,G5,u573754721,p02957
+Wrong Answer,Wrong Answer,66,False,G5,u573754721,p02957
+Wrong Answer,Accepted,127,False,G5,u573754721,p02957
+Time Limit Exceeded,Accepted,1058,False,G4,u587883805,p02957
+Time Limit Exceeded,Accepted,629,False,G3,u588466905,p02957
+Time Limit Exceeded,Accepted,304,False,G3,u616901930,p02957
+Time Limit Exceeded,Accepted,334,False,G6,u623819879,p02957
+Time Limit Exceeded,Wrong Answer,487,False,G4,u624613992,p02957
+Wrong Answer,Runtime Error,229,False,G4,u624613992,p02957
+Runtime Error,Accepted,26,False,G4,u624613992,p02957
+Time Limit Exceeded,Wrong Answer,1128,False,G4,u626353997,p02957
+Time Limit Exceeded,Time Limit Exceeded,30,False,G3,u633000076,p02957
+Time Limit Exceeded,Accepted,389,False,G3,u633000076,p02957
+Time Limit Exceeded,Accepted,451,False,G3,u646064853,p02957
+Time Limit Exceeded,Time Limit Exceeded,1105,False,G2,u647231634,p02957
+Time Limit Exceeded,Wrong Answer,235,False,G2,u647231634,p02957
+Wrong Answer,Wrong Answer,2200,False,G2,u647231634,p02957
+Time Limit Exceeded,Accepted,226,False,G3,u648144864,p02957
+Time Limit Exceeded,Time Limit Exceeded,510,False,G3,u664323418,p02957
+Time Limit Exceeded,Time Limit Exceeded,339,False,G3,u664323418,p02957
+Time Limit Exceeded,Accepted,2044,False,G3,u664323418,p02957
+Time Limit Exceeded,Accepted,821,False,G4,u674491576,p02957
+Time Limit Exceeded,Accepted,236,False,G6,u696272993,p02957
+Time Limit Exceeded,Time Limit Exceeded,309,False,G1,u700412746,p02957
+Time Limit Exceeded,Accepted,661,False,G1,u700412746,p02957
+Time Limit Exceeded,Accepted,399,False,G6,u702582248,p02957
+Time Limit Exceeded,Time Limit Exceeded,104,False,G5,u714624983,p02957
+Time Limit Exceeded,Wrong Answer,75,False,G5,u714624983,p02957
+Wrong Answer,Accepted,356,False,G5,u714624983,p02957
+Time Limit Exceeded,Wrong Answer,724,False,G2,u716922016,p02957
+Wrong Answer,Accepted,169,False,G2,u716922016,p02957
+Time Limit Exceeded,Time Limit Exceeded,245,False,G3,u723414064,p02957
+Time Limit Exceeded,Accepted,1607,False,G3,u723414064,p02957
+Time Limit Exceeded,Time Limit Exceeded,368,False,G2,u725499585,p02957
+Time Limit Exceeded,Accepted,674,False,G2,u725499585,p02957
+Time Limit Exceeded,Accepted,166,False,G4,u743154453,p02957
+Time Limit Exceeded,Wrong Answer,444,False,G4,u749770850,p02957
+Wrong Answer,Wrong Answer,88,False,G4,u749770850,p02957
+Wrong Answer,Accepted,37,False,G4,u749770850,p02957
+Time Limit Exceeded,Accepted,327,False,G6,u756420279,p02957
+Time Limit Exceeded,Accepted,753,False,G6,u762955009,p02957
+Time Limit Exceeded,Accepted,829,False,G4,u801128811,p02957
+Time Limit Exceeded,Time Limit Exceeded,16731,False,G6,u816631826,p02957
+Time Limit Exceeded,Time Limit Exceeded,6124,False,G6,u816631826,p02957
+Time Limit Exceeded,Time Limit Exceeded,176,False,G6,u816631826,p02957
+Time Limit Exceeded,Accepted,3887,False,G6,u816631826,p02957
+Time Limit Exceeded,Accepted,821,False,G2,u818261158,p02957
+Time Limit Exceeded,Wrong Answer,484,False,G2,u824361483,p02957
+Wrong Answer,Accepted,62,False,G2,u824361483,p02957
+Time Limit Exceeded,Accepted,244,False,G3,u836913433,p02957
+Time Limit Exceeded,Time Limit Exceeded,463,False,G3,u850772037,p02957
+Time Limit Exceeded,Wrong Answer,5426,False,G3,u850772037,p02957
+Wrong Answer,Accepted,307,False,G3,u850772037,p02957
+Time Limit Exceeded,Accepted,161,False,G3,u854471099,p02957
+Time Limit Exceeded,Accepted,618,False,G3,u856877925,p02957
+Time Limit Exceeded,Accepted,1010,False,G3,u869763042,p02957
+Time Limit Exceeded,Time Limit Exceeded,249,False,,u873043052,p02957
+Time Limit Exceeded,Wrong Answer,763,False,,u873043052,p02957
+Time Limit Exceeded,Accepted,2004,False,G6,u873269440,p02957
+Time Limit Exceeded,Wrong Answer,199,False,G4,u913604515,p02957
+Wrong Answer,Wrong Answer,88,False,G4,u913604515,p02957
+Wrong Answer,Wrong Answer,158,False,G4,u913604515,p02957
+Wrong Answer,Accepted,210,False,G4,u913604515,p02957
+Time Limit Exceeded,Accepted,459,False,G4,u918994638,p02957
+Time Limit Exceeded,Wrong Answer,492,False,G3,u955216573,p02957
+Wrong Answer,Accepted,2934,False,G3,u955216573,p02957
+Time Limit Exceeded,Wrong Answer,336,False,G4,u960171798,p02957
+Wrong Answer,Wrong Answer,392,False,G4,u960171798,p02957
+Wrong Answer,Wrong Answer,192,False,G4,u960171798,p02957
+Wrong Answer,Accepted,83,False,G4,u960171798,p02957
+Time Limit Exceeded,Wrong Answer,10792,False,G3,u976082990,p02957
+Wrong Answer,Wrong Answer,19976,False,G3,u976082990,p02957
+Wrong Answer,Compile Error,983,False,G3,u976082990,p02957
+Compile Error,Accepted,112,False,G3,u976082990,p02957
+Time Limit Exceeded,Wrong Answer,143,False,G3,u978962055,p02957
+Wrong Answer,Wrong Answer,43,False,G3,u978962055,p02957
+Wrong Answer,Wrong Answer,174,False,G3,u978962055,p02957
+Wrong Answer,Wrong Answer,25,False,G3,u978962055,p02957
+Wrong Answer,Accepted,64,False,G3,u978962055,p02957
+Time Limit Exceeded,Accepted,737,False,G4,u990653216,p02957
+Time Limit Exceeded,Accepted,597,False,G6,u996290370,p02957
+Time Limit Exceeded,Accepted,89,False,G6,u210455745,p02969
+Time Limit Exceeded,Time Limit Exceeded,610,False,,u531374235,p02969
+Time Limit Exceeded,Wrong Answer,49,False,G3,u124006347,p02981
+Wrong Answer,Wrong Answer,164,False,G3,u124006347,p02981
+Wrong Answer,Accepted,223,False,G3,u124006347,p02981
+Time Limit Exceeded,Time Limit Exceeded,2742,True,G2,u542160288,p02981
+Time Limit Exceeded,Time Limit Exceeded,227,False,G2,u542160288,p02981
+Time Limit Exceeded,Time Limit Exceeded,337,False,G2,u542160288,p02981
+Time Limit Exceeded,Time Limit Exceeded,265,False,G2,u542160288,p02981
+Time Limit Exceeded,Accepted,372,False,G2,u542160288,p02981
+Time Limit Exceeded,Accepted,546,False,G6,u788717734,p02981
+Time Limit Exceeded,Wrong Answer,270,False,G3,u110657029,p02987
+Wrong Answer,Accepted,661,False,G3,u110657029,p02987
+Time Limit Exceeded,Accepted,56,False,G4,u312646928,p02987
+Time Limit Exceeded,Wrong Answer,66,False,G4,u600995315,p02987
+Wrong Answer,Wrong Answer,1198,False,G4,u600995315,p02987
+Wrong Answer,Wrong Answer,95,False,G4,u600995315,p02987
+Wrong Answer,Wrong Answer,154,False,G4,u600995315,p02987
+Wrong Answer,Accepted,90,False,G4,u600995315,p02987
+Time Limit Exceeded,Wrong Answer,215,False,,u653760929,p02987
+Wrong Answer,Wrong Answer,429,False,,u653760929,p02987
+Wrong Answer,Wrong Answer,88,False,,u653760929,p02987
+Time Limit Exceeded,Accepted,51,False,G2,u742481447,p02987
+Time Limit Exceeded,Time Limit Exceeded,1926,False,G6,u825102492,p02987
+Time Limit Exceeded,Time Limit Exceeded,99,False,G6,u825102492,p02987
+Time Limit Exceeded,Wrong Answer,406,False,G6,u825102492,p02987
+Wrong Answer,Accepted,65,False,G6,u825102492,p02987
+Time Limit Exceeded,Time Limit Exceeded,105,False,G6,u110383054,p02993
+Time Limit Exceeded,Wrong Answer,122,False,G6,u110383054,p02993
+Wrong Answer,Wrong Answer,36,False,G6,u110383054,p02993
+Wrong Answer,Wrong Answer,79,False,G6,u110383054,p02993
+Wrong Answer,Wrong Answer,133,False,G6,u110383054,p02993
+Wrong Answer,Wrong Answer,33,False,G6,u110383054,p02993
+Wrong Answer,Accepted,307,False,G6,u110383054,p02993
+Time Limit Exceeded,Accepted,142,False,G5,u623136228,p02993
+Time Limit Exceeded,Compile Error,154,False,G1,u653202781,p02999
+Compile Error,Wrong Answer,47,False,G1,u653202781,p02999
+Wrong Answer,Wrong Answer,457,False,G1,u653202781,p02999
+Wrong Answer,Wrong Answer,124,False,G1,u653202781,p02999
+Wrong Answer,Wrong Answer,229,False,G1,u653202781,p02999
+Wrong Answer,Compile Error,38,False,G1,u653202781,p02999
+Compile Error,Compile Error,83,False,G1,u653202781,p02999
+Compile Error,Compile Error,96,False,G1,u653202781,p02999
+Compile Error,Accepted,302,False,G1,u653202781,p02999
+Time Limit Exceeded,Accepted,63,False,G4,u800780376,p02999
+Time Limit Exceeded,Accepted,55,False,G6,u349091349,p03011
+Time Limit Exceeded,Accepted,92,False,G3,u893048163,p03011
+Time Limit Exceeded,Time Limit Exceeded,48,False,G6,u971256474,p03029
+Time Limit Exceeded,Runtime Error,45,False,G6,u102960641,p03035
+Time Limit Exceeded,Time Limit Exceeded,304,False,G4,u113576476,p03035
+Time Limit Exceeded,Accepted,143,False,G6,u305668100,p03035
+Time Limit Exceeded,Accepted,173,False,G6,u886451326,p03035
+Time Limit Exceeded,Time Limit Exceeded,158,False,G5,u184928842,p03041
+Time Limit Exceeded,Time Limit Exceeded,133,False,G5,u184928842,p03041
+Time Limit Exceeded,Accepted,110,False,G5,u184928842,p03041
+Time Limit Exceeded,Time Limit Exceeded,68,False,G5,u275854420,p03041
+Time Limit Exceeded,Wrong Answer,79,False,,u845745781,p03041
+Time Limit Exceeded,Accepted,60,False,G5,u095756391,p03059
+Time Limit Exceeded,Runtime Error,33,False,G6,u127844950,p03059
+Time Limit Exceeded,Time Limit Exceeded,48,False,G5,u305950321,p03059
+Time Limit Exceeded,Accepted,576,False,G5,u305950321,p03059
+Time Limit Exceeded,Wrong Answer,27,False,G3,u368016155,p03059
+Wrong Answer,Wrong Answer,71,False,G3,u368016155,p03059
+Wrong Answer,Accepted,115,False,G3,u368016155,p03059
+Time Limit Exceeded,Accepted,95,False,G6,u375267383,p03059
+Time Limit Exceeded,Accepted,340,False,G5,u387604940,p03059
+Time Limit Exceeded,Compile Error,24,False,G6,u466161487,p03059
+Compile Error,Accepted,6,False,G6,u466161487,p03059
+Time Limit Exceeded,Accepted,37,False,G6,u480887263,p03059
+Time Limit Exceeded,Wrong Answer,359,False,G3,u497528890,p03059
+Wrong Answer,Wrong Answer,121,False,G3,u497528890,p03059
+Wrong Answer,Wrong Answer,54,False,G3,u497528890,p03059
+Wrong Answer,Wrong Answer,85,False,G3,u497528890,p03059
+Wrong Answer,Accepted,62,False,G3,u497528890,p03059
+Time Limit Exceeded,Accepted,92,False,G4,u574053975,p03059
+Time Limit Exceeded,Accepted,76,False,G4,u586520427,p03059
+Time Limit Exceeded,Accepted,100,False,G5,u605833494,p03059
+Time Limit Exceeded,Time Limit Exceeded,333,False,G2,u714356076,p03059
+Time Limit Exceeded,Accepted,415,False,G3,u743473047,p03059
+Time Limit Exceeded,Accepted,12,False,G6,u764234894,p03059
+Time Limit Exceeded,Time Limit Exceeded,125,False,G2,u818967913,p03059
+Time Limit Exceeded,Accepted,133,False,G4,u864165188,p03059
+Time Limit Exceeded,Accepted,62,False,G5,u933962236,p03059
+Time Limit Exceeded,Time Limit Exceeded,280,False,,u982059443,p03059
+Time Limit Exceeded,Wrong Answer,220,False,G2,u991310813,p03059
+Wrong Answer,Compile Error,442,False,G2,u991310813,p03059
+Compile Error,Wrong Answer,236,False,G2,u991310813,p03059
+Time Limit Exceeded,Compile Error,225,False,G3,u177948670,p03071
+Compile Error,Compile Error,67,False,G3,u177948670,p03071
+Compile Error,Accepted,43,False,G3,u177948670,p03071
+Time Limit Exceeded,Wrong Answer,377,False,G4,u255834721,p03071
+Wrong Answer,Accepted,110,False,G4,u255834721,p03071
+Time Limit Exceeded,Runtime Error,63,False,G2,u351399674,p03071
+Time Limit Exceeded,Wrong Answer,48,False,G5,u540741303,p03071
+Wrong Answer,Wrong Answer,73,False,G5,u540741303,p03071
+Wrong Answer,Accepted,155,False,G5,u540741303,p03071
+Time Limit Exceeded,Wrong Answer,98,False,G5,u791220701,p03071
+Wrong Answer,Wrong Answer,41,False,G5,u791220701,p03071
+Wrong Answer,Accepted,95,False,G5,u791220701,p03071
+Time Limit Exceeded,Wrong Answer,322,False,G5,u797664206,p03071
+Wrong Answer,Time Limit Exceeded,55,False,G5,u797664206,p03071
+Time Limit Exceeded,Accepted,125,False,G5,u797664206,p03071
+Time Limit Exceeded,Time Limit Exceeded,68,False,G6,u864197622,p03071
+Time Limit Exceeded,Runtime Error,26,False,G6,u864197622,p03071
+Runtime Error,Wrong Answer,34,False,G6,u864197622,p03071
+Wrong Answer,Wrong Answer,27,False,G6,u864197622,p03071
+Wrong Answer,Time Limit Exceeded,419,False,G6,u864197622,p03071
+Time Limit Exceeded,Wrong Answer,8,False,G6,u864197622,p03071
+Wrong Answer,Runtime Error,56,False,G6,u864197622,p03071
+Runtime Error,Wrong Answer,6,False,G6,u864197622,p03071
+Wrong Answer,Time Limit Exceeded,58,False,G6,u864197622,p03071
+Time Limit Exceeded,Runtime Error,1228,False,G6,u864197622,p03071
+Runtime Error,Runtime Error,8,False,G6,u864197622,p03071
+Time Limit Exceeded,Time Limit Exceeded,753,False,G3,u933729446,p03071
+Time Limit Exceeded,Time Limit Exceeded,117,False,G3,u933729446,p03071
+Time Limit Exceeded,Accepted,135,False,G3,u933729446,p03071
+Time Limit Exceeded,Wrong Answer,32,False,G5,u207235471,p03075
+Wrong Answer,Wrong Answer,60,False,G5,u207235471,p03075
+Wrong Answer,Wrong Answer,256,False,G5,u207235471,p03075
+Wrong Answer,Wrong Answer,56,False,G5,u207235471,p03075
+Wrong Answer,Accepted,96,False,G5,u207235471,p03075
+Time Limit Exceeded,Compile Error,286,False,G3,u219646039,p03075
+Compile Error,Compile Error,115,False,G3,u219646039,p03075
+Compile Error,Accepted,45,False,G3,u219646039,p03075
+Time Limit Exceeded,Wrong Answer,193,False,,u261501616,p03075
+Wrong Answer,Accepted,300,False,,u261501616,p03075
+Time Limit Exceeded,Accepted,404,False,G6,u324090406,p03075
+Time Limit Exceeded,Wrong Answer,74,False,G4,u417563928,p03075
+Time Limit Exceeded,Runtime Error,122,False,G3,u439312138,p03075
+Runtime Error,Wrong Answer,105,False,G3,u439312138,p03075
+Time Limit Exceeded,Time Limit Exceeded,976,False,G5,u654104650,p03075
+Time Limit Exceeded,Time Limit Exceeded,54,False,G5,u654104650,p03075
+Time Limit Exceeded,Time Limit Exceeded,56,False,G4,u684448032,p03075
+Time Limit Exceeded,Wrong Answer,62,False,G4,u684448032,p03075
+Wrong Answer,Compile Error,150,False,G4,u684448032,p03075
+Compile Error,Accepted,29,False,G4,u684448032,p03075
+Time Limit Exceeded,Runtime Error,65,False,G4,u748871552,p03075
+Runtime Error,Compile Error,248,False,G4,u748871552,p03075
+Compile Error,Runtime Error,84,False,G4,u748871552,p03075
+Runtime Error,Runtime Error,111,False,G4,u748871552,p03075
+Time Limit Exceeded,Accepted,43,False,G3,u785875736,p03075
+Time Limit Exceeded,Wrong Answer,101,False,G5,u833932983,p03075
+Wrong Answer,Accepted,157,False,G5,u833932983,p03075
+Time Limit Exceeded,Time Limit Exceeded,223,False,G6,u932038818,p03075
+Time Limit Exceeded,Time Limit Exceeded,1297,False,G6,u932038818,p03075
+Time Limit Exceeded,Time Limit Exceeded,160,False,G6,u932038818,p03075
+Time Limit Exceeded,Time Limit Exceeded,1209,False,G6,u932038818,p03075
+Time Limit Exceeded,Accepted,85,False,G6,u932038818,p03075
+Time Limit Exceeded,Time Limit Exceeded,263,False,G4,u188366988,p03085
+Time Limit Exceeded,Accepted,92,False,G4,u407416173,p03085
+Time Limit Exceeded,Accepted,501,True,G6,u837951457,p03085
+Time Limit Exceeded,Accepted,74,False,G6,u253790619,p03101
+Time Limit Exceeded,Time Limit Exceeded,115,False,G2,u359703864,p03101
+Time Limit Exceeded,Wrong Answer,119,False,G2,u359703864,p03101
+Time Limit Exceeded,Runtime Error,91,False,G6,u127768253,p03105
+Time Limit Exceeded,Wrong Answer,328,False,G5,u180133008,p03105
+Wrong Answer,Accepted,203,False,G5,u180133008,p03105
+Time Limit Exceeded,Accepted,635,False,G3,u378299699,p03105
+Time Limit Exceeded,Wrong Answer,901,False,G5,u655503310,p03105
+Time Limit Exceeded,Accepted,768,False,G4,u726284577,p03105
+Time Limit Exceeded,Time Limit Exceeded,705,False,G4,u814914991,p03105
+Time Limit Exceeded,Accepted,77,False,G4,u828124921,p03105
+Time Limit Exceeded,Accepted,191,False,G4,u864785784,p03105
+Time Limit Exceeded,Accepted,62,False,G3,u970127238,p03109
+Time Limit Exceeded,Accepted,248,False,G6,u548768105,p03125
+Time Limit Exceeded,Time Limit Exceeded,364,False,G6,u720483676,p03125
+Time Limit Exceeded,Accepted,44,False,,u567061318,p03135
+Time Limit Exceeded,Wrong Answer,581,False,G2,u221200093,p03145
+Time Limit Exceeded,Accepted,152,False,G1,u746613804,p03145
+Time Limit Exceeded,Time Limit Exceeded,25,False,G6,u196585321,p03206
+Time Limit Exceeded,Accepted,121,False,G3,u292260435,p03206
+Time Limit Exceeded,Runtime Error,63,False,G3,u439312138,p03206
+Runtime Error,Wrong Answer,71,False,G3,u439312138,p03206
+Wrong Answer,Time Limit Exceeded,46,False,G3,u439312138,p03206
+Time Limit Exceeded,Time Limit Exceeded,31,False,G3,u439312138,p03206
+Time Limit Exceeded,Wrong Answer,42,False,G3,u439312138,p03206
+Wrong Answer,Accepted,39,False,G3,u439312138,p03206
+Time Limit Exceeded,Accepted,2444,False,G6,u469677962,p03206
+Time Limit Exceeded,Compile Error,298,False,G2,u473065351,p03206
+Compile Error,Accepted,34,False,G2,u473065351,p03206
+Time Limit Exceeded,Accepted,66,False,G6,u575909439,p03206
+Time Limit Exceeded,Accepted,118,False,G5,u692131329,p03206
+Time Limit Exceeded,Accepted,27,False,G6,u733618878,p03206
+Time Limit Exceeded,Accepted,95,False,G6,u991713078,p03206
+Time Limit Exceeded,Accepted,8,False,G6,u828706986,p03210
+Time Limit Exceeded,Time Limit Exceeded,272,False,G6,u828732026,p03210
+Time Limit Exceeded,Wrong Answer,81,False,G6,u828732026,p03210
+Wrong Answer,Accepted,114,False,G6,u828732026,p03210
+Time Limit Exceeded,Wrong Answer,139,False,G1,u629894803,p03219
+Wrong Answer,Time Limit Exceeded,35915,False,G1,u629894803,p03219
+Time Limit Exceeded,Compile Error,93,False,G1,u629894803,p03219
+Compile Error,Accepted,26,False,G1,u629894803,p03219
+Time Limit Exceeded,Accepted,76,False,G5,u053166834,p03238
+Time Limit Exceeded,Compile Error,50,False,G4,u596454293,p03238
+Compile Error,Accepted,452,False,G4,u596454293,p03238
+Time Limit Exceeded,Wrong Answer,54,False,G5,u159663513,p03242
+Wrong Answer,Accepted,261,False,G5,u159663513,p03242
+Time Limit Exceeded,Time Limit Exceeded,397,False,G3,u258691775,p03242
+Time Limit Exceeded,Accepted,100,False,G3,u258691775,p03242
+Time Limit Exceeded,Accepted,68,False,G6,u373586461,p03242
+Time Limit Exceeded,Wrong Answer,238,False,G6,u495699318,p03242
+Wrong Answer,Accepted,39,False,G6,u495699318,p03242
+Time Limit Exceeded,Accepted,37,False,G3,u627978409,p03242
+Time Limit Exceeded,Time Limit Exceeded,82,False,,u956745566,p03242
+Time Limit Exceeded,Wrong Answer,883,False,,u960893455,p03242
+Wrong Answer,Wrong Answer,72,False,,u960893455,p03242
+Wrong Answer,Wrong Answer,1586,False,,u960893455,p03242
+Time Limit Exceeded,Wrong Answer,52,False,G2,u129632905,p03260
+Wrong Answer,Wrong Answer,18,False,G2,u129632905,p03260
+Wrong Answer,Wrong Answer,113,False,G2,u129632905,p03260
+Wrong Answer,Accepted,47,False,G2,u129632905,p03260
+Time Limit Exceeded,Accepted,93,False,G4,u312646928,p03264
+Time Limit Exceeded,Accepted,124,False,,u923311344,p03264
+Time Limit Exceeded,Accepted,30,False,G4,u988853761,p03264
+Time Limit Exceeded,Time Limit Exceeded,598,False,G4,u245341129,p03272
+Time Limit Exceeded,Time Limit Exceeded,247,False,G4,u245341129,p03272
+Time Limit Exceeded,Time Limit Exceeded,100,False,G4,u245341129,p03272
+Time Limit Exceeded,Time Limit Exceeded,414,False,G4,u245341129,p03272
+Time Limit Exceeded,Wrong Answer,1126,False,G3,u123942368,p03280
+Wrong Answer,Wrong Answer,23,False,G3,u123942368,p03280
+Time Limit Exceeded,Accepted,134,False,G3,u256279661,p03280
+Time Limit Exceeded,Time Limit Exceeded,310,False,G6,u509674552,p03284
+Time Limit Exceeded,Time Limit Exceeded,127,False,G6,u509674552,p03284
+Time Limit Exceeded,Time Limit Exceeded,75,False,G6,u509674552,p03284
+Time Limit Exceeded,Wrong Answer,671,False,G6,u509674552,p03284
+Wrong Answer,Accepted,63,False,G6,u509674552,p03284
+Time Limit Exceeded,Wrong Answer,133,False,G6,u604231488,p03284
+Time Limit Exceeded,Accepted,347,False,G6,u856205835,p03284
+Time Limit Exceeded,Accepted,213,False,G5,u680195439,p03288
+Time Limit Exceeded,Accepted,438,False,G2,u702597233,p03288
+Time Limit Exceeded,Accepted,161,False,G6,u002627851,p03307
+Time Limit Exceeded,Wrong Answer,81,False,G3,u010777300,p03307
+Time Limit Exceeded,Runtime Error,37,False,G6,u018679195,p03307
+Runtime Error,Accepted,267,False,G6,u018679195,p03307
+Time Limit Exceeded,Accepted,70,False,G2,u019639423,p03307
+Time Limit Exceeded,Accepted,882,False,G3,u023220201,p03307
+Time Limit Exceeded,Time Limit Exceeded,1407,False,G3,u024333896,p03307
+Time Limit Exceeded,Accepted,156,False,G3,u024333896,p03307
+Time Limit Exceeded,Accepted,128,False,G4,u027946359,p03307
+Time Limit Exceeded,Wrong Answer,2906,False,G6,u031178961,p03307
+Wrong Answer,Time Limit Exceeded,198,False,G6,u031178961,p03307
+Time Limit Exceeded,Compile Error,84,False,G6,u031178961,p03307
+Compile Error,Accepted,48,False,G6,u031178961,p03307
+Time Limit Exceeded,Wrong Answer,170,False,G3,u038683627,p03307
+Wrong Answer,Accepted,208,False,G3,u038683627,p03307
+Time Limit Exceeded,Wrong Answer,1714,False,G4,u053227023,p03307
+Wrong Answer,Wrong Answer,2786,False,G4,u053227023,p03307
+Wrong Answer,Wrong Answer,54,False,G4,u053227023,p03307
+Wrong Answer,Compile Error,54,False,G4,u053227023,p03307
+Compile Error,Accepted,7,False,G4,u053227023,p03307
+Time Limit Exceeded,Accepted,201,False,G5,u054559808,p03307
+Time Limit Exceeded,Time Limit Exceeded,102,False,G4,u061804469,p03307
+Time Limit Exceeded,Time Limit Exceeded,194,False,G4,u061804469,p03307
+Time Limit Exceeded,Time Limit Exceeded,44,False,G4,u061804469,p03307
+Time Limit Exceeded,Time Limit Exceeded,231,False,G4,u061804469,p03307
+Time Limit Exceeded,Time Limit Exceeded,119,False,G4,u061804469,p03307
+Time Limit Exceeded,Time Limit Exceeded,47,False,G4,u061804469,p03307
+Time Limit Exceeded,Accepted,143,False,G4,u061804469,p03307
+Time Limit Exceeded,Compile Error,275,False,G3,u075650258,p03307
+Compile Error,Time Limit Exceeded,39,False,G3,u075650258,p03307
+Time Limit Exceeded,Accepted,283,False,G3,u075650258,p03307
+Time Limit Exceeded,Accepted,1471,False,G3,u078994017,p03307
+Time Limit Exceeded,Accepted,482,False,G3,u079470909,p03307
+Time Limit Exceeded,Accepted,193,False,G3,u082597909,p03307
+Time Limit Exceeded,Time Limit Exceeded,1861,False,G2,u086097200,p03307
+Time Limit Exceeded,Compile Error,143,False,G2,u086097200,p03307
+Compile Error,Accepted,40,False,G2,u086097200,p03307
+Time Limit Exceeded,Accepted,6245,False,G6,u089230684,p03307
+Time Limit Exceeded,Accepted,2344,False,G6,u089230684,p03307
+Time Limit Exceeded,Accepted,1259,False,G5,u102067593,p03307
+Time Limit Exceeded,Accepted,108,False,G6,u102126195,p03307
+Time Limit Exceeded,Accepted,454,False,G6,u102795616,p03307
+Time Limit Exceeded,Wrong Answer,44,False,G4,u103657515,p03307
+Time Limit Exceeded,Time Limit Exceeded,506,False,G4,u111849942,p03307
+Time Limit Exceeded,Wrong Answer,168,False,G4,u111849942,p03307
+Wrong Answer,Accepted,814,False,G4,u111849942,p03307
+Time Limit Exceeded,Accepted,321,False,G4,u111886521,p03307
+Time Limit Exceeded,Accepted,109,False,G4,u114396358,p03307
+Time Limit Exceeded,Time Limit Exceeded,161,False,G4,u114838227,p03307
+Time Limit Exceeded,Accepted,133,False,G4,u114838227,p03307
+Time Limit Exceeded,Time Limit Exceeded,96,False,G3,u115898181,p03307
+Time Limit Exceeded,Accepted,281,False,G3,u115898181,p03307
+Time Limit Exceeded,Accepted,503,False,G2,u118192443,p03307
+Time Limit Exceeded,Time Limit Exceeded,93,False,G3,u122195031,p03307
+Time Limit Exceeded,Accepted,354,False,G3,u122195031,p03307
+Time Limit Exceeded,Runtime Error,421,False,G5,u123135189,p03307
+Runtime Error,Accepted,392,False,G5,u123135189,p03307
+Time Limit Exceeded,Accepted,26166,False,G3,u128740947,p03307
+Time Limit Exceeded,Time Limit Exceeded,222,False,G3,u128740947,p03307
+Time Limit Exceeded,Accepted,361,False,G3,u128740947,p03307
+Time Limit Exceeded,Accepted,207,False,G5,u138273120,p03307
+Time Limit Exceeded,Accepted,720,False,G3,u142698788,p03307
+Time Limit Exceeded,Runtime Error,180,False,G4,u143492911,p03307
+Runtime Error,Accepted,739,False,G4,u143492911,p03307
+Time Limit Exceeded,Wrong Answer,303,False,G3,u148933463,p03307
+Time Limit Exceeded,Runtime Error,202,False,G5,u155687575,p03307
+Runtime Error,Accepted,185,False,G5,u155687575,p03307
+Time Limit Exceeded,Accepted,514,False,G2,u196841689,p03307
+Time Limit Exceeded,Accepted,365,False,G5,u211964883,p03307
+Time Limit Exceeded,Accepted,370,False,G2,u212473280,p03307
+Time Limit Exceeded,Accepted,16,False,G4,u217086212,p03307
+Time Limit Exceeded,Accepted,95,False,G5,u225777148,p03307
+Time Limit Exceeded,Accepted,187,False,G6,u231685196,p03307
+Time Limit Exceeded,Accepted,49,False,G3,u233179341,p03307
+Time Limit Exceeded,Wrong Answer,72,False,G5,u234248338,p03307
+Wrong Answer,Accepted,34,False,G5,u234248338,p03307
+Time Limit Exceeded,Compile Error,286,False,G6,u238991589,p03307
+Compile Error,Accepted,318,False,G6,u238991589,p03307
+Time Limit Exceeded,Wrong Answer,88,False,G3,u243458685,p03307
+Wrong Answer,Wrong Answer,84,False,G3,u243458685,p03307
+Wrong Answer,Wrong Answer,114,False,G3,u243458685,p03307
+Wrong Answer,Wrong Answer,336,False,G3,u243458685,p03307
+Wrong Answer,Wrong Answer,34,False,G3,u243458685,p03307
+Wrong Answer,Wrong Answer,68,False,G3,u243458685,p03307
+Wrong Answer,Time Limit Exceeded,52,False,G3,u243458685,p03307
+Time Limit Exceeded,Accepted,296,False,G3,u243458685,p03307
+Time Limit Exceeded,Time Limit Exceeded,124,False,G4,u248447064,p03307
+Time Limit Exceeded,Accepted,103,False,G4,u248447064,p03307
+Time Limit Exceeded,Accepted,105,False,G2,u250101177,p03307
+Time Limit Exceeded,Time Limit Exceeded,380,False,G4,u274195948,p03307
+Time Limit Exceeded,Accepted,253,False,G4,u274195948,p03307
+Time Limit Exceeded,Time Limit Exceeded,1047,False,G3,u275337945,p03307
+Time Limit Exceeded,Accepted,142,False,G3,u275337945,p03307
+Time Limit Exceeded,Accepted,522,False,G4,u280016524,p03307
+Time Limit Exceeded,Accepted,322,False,G3,u280739688,p03307
+Time Limit Exceeded,Time Limit Exceeded,127,False,G6,u284854859,p03307
+Time Limit Exceeded,Time Limit Exceeded,49,False,G6,u284854859,p03307
+Time Limit Exceeded,Accepted,106,False,G6,u284854859,p03307
+Time Limit Exceeded,Time Limit Exceeded,922,False,G4,u286120733,p03307
+Time Limit Exceeded,Accepted,321,False,G4,u286120733,p03307
+Time Limit Exceeded,Accepted,816,False,G3,u298244614,p03307
+Time Limit Exceeded,Accepted,305,False,G6,u308463793,p03307
+Time Limit Exceeded,Accepted,122,False,G4,u315771060,p03307
+Time Limit Exceeded,Accepted,141,False,G3,u316293198,p03307
+Time Limit Exceeded,Accepted,1053,False,G4,u319491032,p03307
+Time Limit Exceeded,Accepted,157,False,G3,u322067886,p03307
+Time Limit Exceeded,Time Limit Exceeded,103,False,G5,u324139341,p03307
+Time Limit Exceeded,Accepted,129,False,G5,u324139341,p03307
+Time Limit Exceeded,Time Limit Exceeded,248,False,G4,u326014872,p03307
+Time Limit Exceeded,Accepted,148,False,G4,u326014872,p03307
+Time Limit Exceeded,Accepted,116,False,G4,u326080192,p03307
+Time Limit Exceeded,Accepted,112,False,G3,u337018543,p03307
+Time Limit Exceeded,Time Limit Exceeded,131,False,G3,u352283288,p03307
+Time Limit Exceeded,Accepted,170,False,G3,u352283288,p03307
+Time Limit Exceeded,Compile Error,368,False,G3,u356883422,p03307
+Compile Error,Wrong Answer,40,False,G3,u356883422,p03307
+Wrong Answer,Accepted,106,False,G3,u356883422,p03307
+Time Limit Exceeded,Accepted,640,False,G3,u366601940,p03307
+Time Limit Exceeded,Accepted,218,False,G2,u372581122,p03307
+Time Limit Exceeded,Accepted,228,False,G5,u374678351,p03307
+Time Limit Exceeded,Time Limit Exceeded,147,False,G4,u376859266,p03307
+Time Limit Exceeded,Accepted,75,False,G4,u376859266,p03307
+Time Limit Exceeded,Accepted,197,False,G3,u376892863,p03307
+Time Limit Exceeded,Accepted,1382,False,G6,u380391081,p03307
+Time Limit Exceeded,Accepted,80,False,G4,u383056481,p03307
+Time Limit Exceeded,Runtime Error,610,False,G3,u384679440,p03307
+Runtime Error,Runtime Error,120,False,G3,u384679440,p03307
+Runtime Error,Runtime Error,211,False,G3,u384679440,p03307
+Runtime Error,Accepted,142,False,G3,u384679440,p03307
+Time Limit Exceeded,Accepted,367,False,G4,u392029857,p03307
+Time Limit Exceeded,Accepted,555,False,G3,u394342297,p03307
+Time Limit Exceeded,Accepted,3933,False,G4,u399232305,p03307
+Time Limit Exceeded,Accepted,449,False,G3,u400738660,p03307
+Time Limit Exceeded,Accepted,273,False,G5,u418810472,p03307
+Time Limit Exceeded,Time Limit Exceeded,251,False,G3,u418932331,p03307
+Time Limit Exceeded,Accepted,351,False,G3,u418932331,p03307
+Time Limit Exceeded,Accepted,131,False,G6,u423624748,p03307
+Time Limit Exceeded,Accepted,179,False,G5,u426572476,p03307
+Time Limit Exceeded,Wrong Answer,452,False,G4,u441823651,p03307
+Wrong Answer,Accepted,44,False,G4,u441823651,p03307
+Time Limit Exceeded,Wrong Answer,60,False,G1,u442948527,p03307
+Wrong Answer,Wrong Answer,103,False,G1,u442948527,p03307
+Wrong Answer,Wrong Answer,52,False,G1,u442948527,p03307
+Wrong Answer,Accepted,300,False,G1,u442948527,p03307
+Time Limit Exceeded,Time Limit Exceeded,1429,False,G3,u451390318,p03307
+Time Limit Exceeded,Accepted,134,False,G3,u451390318,p03307
+Time Limit Exceeded,Accepted,143,False,G1,u452306542,p03307
+Time Limit Exceeded,Accepted,517,False,G4,u452317942,p03307
+Time Limit Exceeded,Accepted,117,False,G5,u457483230,p03307
+Time Limit Exceeded,Time Limit Exceeded,260,False,G6,u471212175,p03307
+Time Limit Exceeded,Accepted,93,False,G6,u471212175,p03307
+Time Limit Exceeded,Accepted,1028,False,G4,u484962958,p03307
+Time Limit Exceeded,Accepted,154,False,G4,u500376440,p03307
+Time Limit Exceeded,Time Limit Exceeded,200,False,G2,u501385418,p03307
+Time Limit Exceeded,Accepted,299,False,G6,u502389123,p03307
+Time Limit Exceeded,Wrong Answer,288,False,G4,u506490998,p03307
+Wrong Answer,Accepted,62,False,G4,u506490998,p03307
+Time Limit Exceeded,Accepted,676,False,G4,u510372936,p03307
+Time Limit Exceeded,Accepted,722,False,G3,u514208115,p03307
+Time Limit Exceeded,Accepted,1419,False,G4,u515854808,p03307
+Time Limit Exceeded,Accepted,169,False,G4,u519452411,p03307
+Time Limit Exceeded,Accepted,416,False,G3,u521848233,p03307
+Time Limit Exceeded,Accepted,741,False,G5,u528748570,p03307
+Time Limit Exceeded,Accepted,262,False,G6,u532086793,p03307
+Time Limit Exceeded,Accepted,127,False,G4,u537837642,p03307
+Time Limit Exceeded,Accepted,266,False,G2,u546842199,p03307
+Time Limit Exceeded,Accepted,178,False,G3,u552331659,p03307
+Time Limit Exceeded,Accepted,63,False,G6,u554953477,p03307
+Time Limit Exceeded,Runtime Error,377,False,G6,u571444155,p03307
+Runtime Error,Accepted,46,False,G6,u571444155,p03307
+Time Limit Exceeded,Accepted,632,False,G2,u575516430,p03307
+Time Limit Exceeded,Accepted,440,False,G3,u578441226,p03307
+Time Limit Exceeded,Time Limit Exceeded,550,False,G3,u581832318,p03307
+Time Limit Exceeded,Accepted,112,False,G3,u581832318,p03307
+Time Limit Exceeded,Accepted,298,False,G4,u589599801,p03307
+Time Limit Exceeded,Time Limit Exceeded,437,False,G5,u589734885,p03307
+Time Limit Exceeded,Accepted,458,False,G5,u589734885,p03307
+Time Limit Exceeded,Time Limit Exceeded,453,False,G2,u598932255,p03307
+Time Limit Exceeded,Time Limit Exceeded,98,False,G2,u598932255,p03307
+Time Limit Exceeded,Accepted,211,False,G2,u598932255,p03307
+Time Limit Exceeded,Compile Error,108,False,G2,u602693981,p03307
+Compile Error,Time Limit Exceeded,25,False,G2,u602693981,p03307
+Time Limit Exceeded,Time Limit Exceeded,189,False,G2,u602693981,p03307
+Time Limit Exceeded,Accepted,404,False,G2,u602693981,p03307
+Time Limit Exceeded,Accepted,260,False,G3,u604655161,p03307
+Time Limit Exceeded,Accepted,227,False,G3,u604773739,p03307
+Time Limit Exceeded,Time Limit Exceeded,147,False,G3,u614279272,p03307
+Time Limit Exceeded,Time Limit Exceeded,73,False,G3,u614279272,p03307
+Time Limit Exceeded,Wrong Answer,304,False,G3,u614279272,p03307
+Wrong Answer,Time Limit Exceeded,161,False,G3,u614279272,p03307
+Time Limit Exceeded,Time Limit Exceeded,111,False,G3,u614279272,p03307
+Time Limit Exceeded,Accepted,83,False,G3,u614279272,p03307
+Time Limit Exceeded,Accepted,580,False,G3,u619558971,p03307
+Time Limit Exceeded,Wrong Answer,254,False,G2,u619718811,p03307
+Wrong Answer,Time Limit Exceeded,135,False,G2,u619718811,p03307
+Time Limit Exceeded,Accepted,525,False,G2,u619718811,p03307
+Time Limit Exceeded,Time Limit Exceeded,68,False,G3,u625145093,p03307
+Time Limit Exceeded,Accepted,162,False,G3,u625145093,p03307
+Time Limit Exceeded,Accepted,1351,False,G2,u632594814,p03307
+Time Limit Exceeded,Accepted,84,False,G5,u632679464,p03307
+Time Limit Exceeded,Compile Error,470,False,G3,u632953276,p03307
+Compile Error,Wrong Answer,26,False,G3,u632953276,p03307
+Wrong Answer,Accepted,70,False,G3,u632953276,p03307
+Time Limit Exceeded,Accepted,553,False,G3,u633463117,p03307
+Time Limit Exceeded,Accepted,225,False,G3,u634527561,p03307
+Time Limit Exceeded,Accepted,950,False,G4,u646483356,p03307
+Time Limit Exceeded,Accepted,352,False,G2,u655177982,p03307
+Time Limit Exceeded,Wrong Answer,314,False,G4,u660007071,p03307
+Wrong Answer,Accepted,489,False,G4,u660007071,p03307
+Time Limit Exceeded,Time Limit Exceeded,83,False,G5,u660112829,p03307
+Time Limit Exceeded,Accepted,207,False,G5,u660112829,p03307
+Time Limit Exceeded,Accepted,319,False,G3,u663970214,p03307
+Time Limit Exceeded,Wrong Answer,263,False,G3,u668292260,p03307
+Wrong Answer,Accepted,396,False,G3,u668292260,p03307
+Time Limit Exceeded,Accepted,1217,False,G4,u694951525,p03307
+Time Limit Exceeded,Time Limit Exceeded,340,False,G6,u698883164,p03307
+Time Limit Exceeded,Wrong Answer,148,False,G6,u698883164,p03307
+Wrong Answer,Wrong Answer,81,False,G6,u698883164,p03307
+Wrong Answer,Wrong Answer,600,False,G6,u698883164,p03307
+Wrong Answer,Accepted,80,False,G6,u698883164,p03307
+Time Limit Exceeded,Time Limit Exceeded,7924,False,G4,u707853565,p03307
+Time Limit Exceeded,Wrong Answer,53,False,G4,u707853565,p03307
+Wrong Answer,Time Limit Exceeded,116,False,G4,u707853565,p03307
+Time Limit Exceeded,Accepted,447,False,G4,u707853565,p03307
+Time Limit Exceeded,Accepted,62,False,G3,u708378905,p03307
+Time Limit Exceeded,Compile Error,151,False,G4,u708794223,p03307
+Compile Error,Accepted,27,False,G4,u708794223,p03307
+Time Limit Exceeded,Accepted,531,False,G3,u716403882,p03307
+Time Limit Exceeded,Accepted,1217,False,G4,u716970267,p03307
+Time Limit Exceeded,Wrong Answer,1299,False,G6,u721316601,p03307
+Wrong Answer,Accepted,82,False,G6,u721316601,p03307
+Time Limit Exceeded,Wrong Answer,1525,False,G4,u722766569,p03307
+Wrong Answer,Accepted,146,False,G4,u722766569,p03307
+Time Limit Exceeded,Accepted,1232,False,G4,u726218285,p03307
+Time Limit Exceeded,Accepted,236,False,G2,u738935478,p03307
+Time Limit Exceeded,Accepted,63,False,G4,u739360929,p03307
+Time Limit Exceeded,Accepted,281,False,G3,u743283842,p03307
+Time Limit Exceeded,Accepted,112,False,G4,u752700460,p03307
+Time Limit Exceeded,Accepted,989,False,G6,u754651673,p03307
+Time Limit Exceeded,Time Limit Exceeded,37,False,G5,u762420987,p03307
+Time Limit Exceeded,Accepted,129,False,G5,u762420987,p03307
+Time Limit Exceeded,Accepted,204,False,G4,u770968010,p03307
+Time Limit Exceeded,Time Limit Exceeded,475,False,G2,u772465569,p03307
+Time Limit Exceeded,Compile Error,188,False,G2,u772465569,p03307
+Compile Error,Accepted,40,False,G2,u772465569,p03307
+Time Limit Exceeded,Accepted,132,False,G5,u776056110,p03307
+Time Limit Exceeded,Time Limit Exceeded,1580,False,G3,u793440937,p03307
+Time Limit Exceeded,Accepted,401,False,G3,u793440937,p03307
+Time Limit Exceeded,Time Limit Exceeded,124,False,G2,u796033572,p03307
+Time Limit Exceeded,Compile Error,55,False,G2,u796033572,p03307
+Compile Error,Compile Error,79,False,G2,u796033572,p03307
+Compile Error,Accepted,121,False,G2,u796033572,p03307
+Time Limit Exceeded,Wrong Answer,118,False,G5,u798557584,p03307
+Wrong Answer,Accepted,174,False,G5,u798557584,p03307
+Time Limit Exceeded,Time Limit Exceeded,142,False,G4,u806800460,p03307
+Time Limit Exceeded,Time Limit Exceeded,48,False,G4,u806800460,p03307
+Time Limit Exceeded,Time Limit Exceeded,113,False,G4,u806800460,p03307
+Time Limit Exceeded,Time Limit Exceeded,211,False,G4,u806800460,p03307
+Time Limit Exceeded,Accepted,234,False,G4,u806800460,p03307
+Time Limit Exceeded,Time Limit Exceeded,57,False,G4,u815628714,p03307
+Time Limit Exceeded,Accepted,254,False,G4,u815628714,p03307
+Time Limit Exceeded,Accepted,1153,False,G3,u825528847,p03307
+Time Limit Exceeded,Accepted,1173,False,G3,u825925638,p03307
+Time Limit Exceeded,Accepted,135,False,G3,u825925638,p03307
+Time Limit Exceeded,Time Limit Exceeded,685,False,G6,u831873811,p03307
+Time Limit Exceeded,Accepted,433,False,G6,u831873811,p03307
+Time Limit Exceeded,Accepted,356,False,G4,u838744063,p03307
+Time Limit Exceeded,Time Limit Exceeded,134,False,G3,u847564582,p03307
+Time Limit Exceeded,Accepted,130,False,G3,u847564582,p03307
+Time Limit Exceeded,Accepted,214,False,G4,u847923384,p03307
+Time Limit Exceeded,Time Limit Exceeded,98,False,G5,u848647227,p03307
+Time Limit Exceeded,Accepted,114,False,G5,u848647227,p03307
+Time Limit Exceeded,Accepted,100,False,G5,u851205244,p03307
+Time Limit Exceeded,Accepted,1334,False,G6,u854161810,p03307
+Time Limit Exceeded,Accepted,80,False,G5,u855866205,p03307
+Time Limit Exceeded,Accepted,122,False,G4,u861625303,p03307
+Time Limit Exceeded,Accepted,292,False,G3,u865191802,p03307
+Time Limit Exceeded,Accepted,149,False,G5,u871841829,p03307
+Time Limit Exceeded,Accepted,114,False,G3,u873736356,p03307
+Time Limit Exceeded,Accepted,794,False,G3,u875855656,p03307
+Time Limit Exceeded,Time Limit Exceeded,858,False,G4,u888275483,p03307
+Time Limit Exceeded,Wrong Answer,212,False,G4,u888275483,p03307
+Wrong Answer,Accepted,762,False,G4,u888275483,p03307
+Time Limit Exceeded,Time Limit Exceeded,256,False,G3,u899711906,p03307
+Time Limit Exceeded,Accepted,474,False,G3,u899711906,p03307
+Time Limit Exceeded,Wrong Answer,157,False,G3,u901813121,p03307
+Wrong Answer,Wrong Answer,82,False,G3,u901813121,p03307
+Wrong Answer,Time Limit Exceeded,82,False,G3,u901813121,p03307
+Time Limit Exceeded,Accepted,134,False,G3,u901813121,p03307
+Time Limit Exceeded,Time Limit Exceeded,437,False,G6,u908039151,p03307
+Time Limit Exceeded,Accepted,417,False,G6,u908039151,p03307
+Time Limit Exceeded,Time Limit Exceeded,358,False,G3,u910163193,p03307
+Time Limit Exceeded,Accepted,112,False,G3,u910163193,p03307
+Time Limit Exceeded,Accepted,303,False,G4,u911222357,p03307
+Time Limit Exceeded,Compile Error,307,False,G3,u915255346,p03307
+Compile Error,Accepted,34,False,G3,u915255346,p03307
+Time Limit Exceeded,Time Limit Exceeded,166,False,G2,u917768600,p03307
+Time Limit Exceeded,Time Limit Exceeded,200,False,G2,u917768600,p03307
+Time Limit Exceeded,Accepted,655,False,G2,u917768600,p03307
+Time Limit Exceeded,Wrong Answer,218,False,G2,u922786510,p03307
+Wrong Answer,Accepted,91,False,G2,u922786510,p03307
+Time Limit Exceeded,Accepted,1076,False,G6,u932066890,p03307
+Time Limit Exceeded,Accepted,225,False,G4,u934402094,p03307
+Time Limit Exceeded,Accepted,59,False,G4,u937220467,p03307
+Time Limit Exceeded,Wrong Answer,158,False,G2,u945703267,p03307
+Wrong Answer,Accepted,297,False,G2,u945703267,p03307
+Time Limit Exceeded,Wrong Answer,160,False,G4,u946973499,p03307
+Wrong Answer,Wrong Answer,381,False,G4,u946973499,p03307
+Wrong Answer,Wrong Answer,208,False,G4,u946973499,p03307
+Wrong Answer,Wrong Answer,156,False,G4,u946973499,p03307
+Wrong Answer,Accepted,121,False,G4,u946973499,p03307
+Time Limit Exceeded,Accepted,263,False,G4,u948222358,p03307
+Time Limit Exceeded,Accepted,387,False,G5,u952094438,p03307
+Time Limit Exceeded,Time Limit Exceeded,555,False,G4,u957722693,p03307
+Time Limit Exceeded,Accepted,256,False,G4,u957722693,p03307
+Time Limit Exceeded,Accepted,909,False,G3,u958128735,p03307
+Time Limit Exceeded,Wrong Answer,85,False,G4,u960286066,p03307
+Wrong Answer,Accepted,93,False,G4,u960286066,p03307
+Time Limit Exceeded,Time Limit Exceeded,961,False,G4,u969059993,p03307
+Time Limit Exceeded,Time Limit Exceeded,98,False,G4,u969059993,p03307
+Time Limit Exceeded,Time Limit Exceeded,102,False,G4,u969059993,p03307
+Time Limit Exceeded,Accepted,192,False,G4,u969059993,p03307
+Time Limit Exceeded,Time Limit Exceeded,180,False,G3,u976082990,p03307
+Time Limit Exceeded,Accepted,3894,False,G3,u976082990,p03307
+Time Limit Exceeded,Time Limit Exceeded,893,False,G4,u977660562,p03307
+Time Limit Exceeded,Accepted,3360,False,G4,u977660562,p03307
+Time Limit Exceeded,Time Limit Exceeded,4002,False,G3,u978938563,p03307
+Time Limit Exceeded,Wrong Answer,120,False,G3,u978938563,p03307
+Wrong Answer,Time Limit Exceeded,214,False,G3,u978938563,p03307
+Time Limit Exceeded,Accepted,456,False,G3,u978938563,p03307
+Time Limit Exceeded,Accepted,524,False,G4,u986334889,p03307
+Time Limit Exceeded,Wrong Answer,58,False,G6,u992910889,p03307
+Wrong Answer,Wrong Answer,211,False,G6,u992910889,p03307
+Wrong Answer,Wrong Answer,176,False,G6,u992910889,p03307
+Wrong Answer,Wrong Answer,543,False,G6,u992910889,p03307
+Wrong Answer,Wrong Answer,109,False,G6,u992910889,p03307
+Wrong Answer,Wrong Answer,73,False,G6,u992910889,p03307
+Wrong Answer,Accepted,411,False,G6,u992910889,p03307
+Time Limit Exceeded,Time Limit Exceeded,79,False,G4,u994307795,p03307
+Time Limit Exceeded,Accepted,249,False,G4,u994307795,p03307
+Time Limit Exceeded,Accepted,1192,False,G4,u994577348,p03307
+Time Limit Exceeded,Accepted,122,False,G2,u996071692,p03307
+Time Limit Exceeded,Accepted,325,False,G6,u996290370,p03307
+Time Limit Exceeded,Accepted,383,False,G3,u999449420,p03307
+Time Limit Exceeded,Accepted,674,False,G5,u313578168,p03315
+Time Limit Exceeded,Wrong Answer,83,False,G2,u382224222,p03315
+Wrong Answer,Wrong Answer,606,False,G2,u382224222,p03315
+Wrong Answer,Wrong Answer,138,False,G2,u382224222,p03315
+Time Limit Exceeded,Accepted,48,False,G6,u759188928,p03315
+Time Limit Exceeded,Accepted,262,False,G3,u818872361,p03315
+Time Limit Exceeded,Wrong Answer,54,False,G4,u913234250,p03315
+Wrong Answer,Accepted,92,False,G4,u913234250,p03315
+Time Limit Exceeded,Wrong Answer,100,False,G6,u958873500,p03315
+Wrong Answer,Wrong Answer,77,False,G6,u958873500,p03315
+Wrong Answer,Accepted,107,False,G6,u958873500,p03315
+Time Limit Exceeded,Wrong Answer,98,False,G5,u162326103,p03323
+Wrong Answer,Accepted,7788,False,G5,u162326103,p03323
+Time Limit Exceeded,Wrong Answer,319,False,G1,u544913369,p03323
+Wrong Answer,Wrong Answer,103,False,G1,u544913369,p03323
+Wrong Answer,Wrong Answer,204,False,G1,u544913369,p03323
+Time Limit Exceeded,Time Limit Exceeded,195,False,G2,u290246372,p03327
+Time Limit Exceeded,Wrong Answer,525,False,G2,u290246372,p03327
+Wrong Answer,Accepted,50,False,G2,u290246372,p03327
+Time Limit Exceeded,Accepted,849,False,G5,u968803854,p03337
+Time Limit Exceeded,Time Limit Exceeded,155,False,G3,u017922244,p03359
+Time Limit Exceeded,Accepted,149,False,G3,u017922244,p03359
+Time Limit Exceeded,Accepted,31,False,G4,u342349454,p03359
+Time Limit Exceeded,Time Limit Exceeded,303,False,G3,u348403159,p03359
+Time Limit Exceeded,Runtime Error,516,False,G3,u348403159,p03359
+Runtime Error,Accepted,237,False,G3,u348403159,p03359
+Time Limit Exceeded,Time Limit Exceeded,127,False,G3,u362315487,p03359
+Time Limit Exceeded,Compile Error,239,False,G3,u362315487,p03359
+Compile Error,Accepted,26,False,G3,u362315487,p03359
+Time Limit Exceeded,Wrong Answer,3486,False,G2,u440949328,p03359
+Time Limit Exceeded,Accepted,396,False,G3,u767116795,p03359
+Time Limit Exceeded,Accepted,562,False,G3,u032451266,p03369
+Time Limit Exceeded,Accepted,63,False,G6,u133083455,p03369
+Time Limit Exceeded,Accepted,199,False,G2,u306927012,p03369
+Time Limit Exceeded,Time Limit Exceeded,12,False,,u388766576,p03369
+Time Limit Exceeded,Compile Error,110,False,G4,u781383449,p03369
+Compile Error,Accepted,118,False,G4,u781383449,p03369
+Time Limit Exceeded,Runtime Error,1063,False,G4,u830881062,p03369
+Time Limit Exceeded,Accepted,104,False,G3,u881213483,p03369
+Time Limit Exceeded,Wrong Answer,282,False,G2,u968176683,p03369
+Wrong Answer,Accepted,132,False,G2,u968176683,p03369
+Time Limit Exceeded,Runtime Error,184,False,G4,u125505541,p03377
+Runtime Error,Runtime Error,213,False,G4,u125505541,p03377
+Runtime Error,Accepted,375,False,G4,u125505541,p03377
+Time Limit Exceeded,Accepted,46,False,G6,u030090262,p03385
+Time Limit Exceeded,Time Limit Exceeded,1085,False,,u169502675,p03385
+Time Limit Exceeded,Time Limit Exceeded,296,False,,u169502675,p03385
+Time Limit Exceeded,Wrong Answer,195,False,,u169502675,p03385
+Time Limit Exceeded,Accepted,55,False,G4,u195010753,p03385
+Time Limit Exceeded,Wrong Answer,63,False,G6,u535347736,p03385
+Wrong Answer,Accepted,121,False,G6,u535347736,p03385
+Time Limit Exceeded,Accepted,107,False,G4,u627747800,p03385
+Time Limit Exceeded,Accepted,190,False,G6,u695811449,p03385
+Time Limit Exceeded,Accepted,403,False,G3,u970127238,p03385
+Time Limit Exceeded,Accepted,229,False,G3,u994513430,p03385
+Time Limit Exceeded,Accepted,402,False,G4,u075025813,p03399
+Time Limit Exceeded,Time Limit Exceeded,222,False,G2,u362610984,p03399
+Time Limit Exceeded,Time Limit Exceeded,260,False,G2,u631851824,p03399
+Time Limit Exceeded,Time Limit Exceeded,772,False,G2,u631851824,p03399
+Time Limit Exceeded,Time Limit Exceeded,157,False,G2,u631851824,p03399
+Time Limit Exceeded,Accepted,98,False,G2,u716479310,p03399
+Time Limit Exceeded,Time Limit Exceeded,389,False,G3,u964400144,p03399
+Time Limit Exceeded,Time Limit Exceeded,399,False,G3,u964400144,p03399
+Time Limit Exceeded,Accepted,313,False,G3,u964400144,p03399
+Time Limit Exceeded,Accepted,228,False,G3,u994513430,p03399
+Time Limit Exceeded,Wrong Answer,463,False,G3,u127414352,p03407
+Wrong Answer,Accepted,48,False,G3,u127414352,p03407
+Time Limit Exceeded,Compile Error,180,False,G4,u906250335,p03407
+Compile Error,Time Limit Exceeded,6714,False,G4,u906250335,p03407
+Time Limit Exceeded,Time Limit Exceeded,9151,False,G4,u906250335,p03407
+Time Limit Exceeded,Compile Error,118,False,G4,u906250335,p03407
+Compile Error,Runtime Error,29,False,G4,u906250335,p03407
+Runtime Error,Runtime Error,96,False,G4,u906250335,p03407
+Time Limit Exceeded,Wrong Answer,402,False,G3,u054725400,p03415
+Time Limit Exceeded,Wrong Answer,32,False,G4,u294683729,p03415
+Wrong Answer,Time Limit Exceeded,44,False,G4,u294683729,p03415
+Time Limit Exceeded,Accepted,34,False,G4,u294683729,p03415
+Time Limit Exceeded,Accepted,175,False,G4,u340710195,p03415
+Time Limit Exceeded,Accepted,294,False,G5,u505466816,p03415
+Time Limit Exceeded,Accepted,112,False,G4,u920439603,p03415
+Time Limit Exceeded,Time Limit Exceeded,37,False,,u026343425,p03423
+Time Limit Exceeded,Time Limit Exceeded,75,False,,u026343425,p03423
+Time Limit Exceeded,Accepted,43,False,G3,u233179341,p03423
+Time Limit Exceeded,Accepted,208,False,G3,u483640741,p03423
+Time Limit Exceeded,Time Limit Exceeded,1251,False,G5,u555933327,p03423
+Time Limit Exceeded,Accepted,94,False,G5,u555933327,p03423
+Time Limit Exceeded,Time Limit Exceeded,83,False,G2,u831126421,p03423
+Time Limit Exceeded,Compile Error,1515,False,G2,u831126421,p03423
+Time Limit Exceeded,Accepted,687,False,G4,u864785784,p03423
+Time Limit Exceeded,Accepted,107,False,,u161060557,p03433
+Time Limit Exceeded,Accepted,171,False,G3,u384267577,p03433
+Time Limit Exceeded,Accepted,285,False,G6,u895393304,p03433
+Time Limit Exceeded,Compile Error,145,False,G6,u984529214,p03433
+Time Limit Exceeded,Accepted,187,False,G4,u486773779,p03447
+Time Limit Exceeded,Wrong Answer,704,False,G2,u643932671,p03447
+Wrong Answer,Accepted,610,False,G2,u643932671,p03447
+Time Limit Exceeded,Wrong Answer,4870,False,G4,u691117779,p03447
+Wrong Answer,Wrong Answer,759,False,G4,u691117779,p03447
+Time Limit Exceeded,Accepted,155,False,G2,u748135969,p03447
+Time Limit Exceeded,Accepted,135,False,G6,u094155508,p03455
+Time Limit Exceeded,Accepted,24,False,G6,u248209126,p03455
+Time Limit Exceeded,Accepted,157,False,G6,u426964396,p03455
+Time Limit Exceeded,Compile Error,846,False,G4,u000582888,p03469
+Compile Error,Wrong Answer,79,False,G4,u000582888,p03469
+Wrong Answer,Wrong Answer,332,False,G4,u000582888,p03469
+Wrong Answer,Wrong Answer,590,False,G4,u000582888,p03469
+Wrong Answer,Wrong Answer,397,False,G4,u000582888,p03469
+Wrong Answer,Time Limit Exceeded,427,False,G4,u000582888,p03469
+Time Limit Exceeded,Time Limit Exceeded,693,False,G4,u000582888,p03469
+Time Limit Exceeded,Time Limit Exceeded,230,False,G4,u000582888,p03469
+Time Limit Exceeded,Wrong Answer,210,False,G4,u000582888,p03469
+Wrong Answer,Wrong Answer,218,False,G4,u000582888,p03469
+Wrong Answer,Wrong Answer,153,False,G4,u000582888,p03469
+Wrong Answer,Wrong Answer,625,False,G4,u000582888,p03469
+Wrong Answer,Wrong Answer,3681,False,G4,u000582888,p03469
+Wrong Answer,Wrong Answer,65,False,G4,u000582888,p03469
+Wrong Answer,Wrong Answer,543,False,G4,u000582888,p03469
+Wrong Answer,Compile Error,103,False,G4,u000582888,p03469
+Compile Error,Wrong Answer,85,False,G4,u000582888,p03469
+Wrong Answer,Wrong Answer,127,False,G4,u000582888,p03469
+Wrong Answer,Wrong Answer,67,False,G4,u000582888,p03469
+Wrong Answer,Wrong Answer,72,False,G4,u000582888,p03469
+Wrong Answer,Wrong Answer,360,False,G4,u000582888,p03469
+Time Limit Exceeded,Time Limit Exceeded,1576,False,G4,u342005896,p03469
+Time Limit Exceeded,Wrong Answer,200,False,G4,u342005896,p03469
+Time Limit Exceeded,Time Limit Exceeded,879,False,,u737214831,p03469
+Time Limit Exceeded,Wrong Answer,33,False,G4,u771806944,p03469
+Wrong Answer,Wrong Answer,278,False,G4,u771806944,p03469
+Time Limit Exceeded,Time Limit Exceeded,1396,False,G6,u864171425,p03469
+Time Limit Exceeded,Wrong Answer,651,False,G6,u864171425,p03469
+Wrong Answer,Wrong Answer,1295,False,G6,u864171425,p03469
+Time Limit Exceeded,Accepted,365,False,G6,u872191059,p03473
+Time Limit Exceeded,Wrong Answer,80,False,G5,u017415492,p03493
+Wrong Answer,Wrong Answer,70,False,G5,u017415492,p03493
+Time Limit Exceeded,Time Limit Exceeded,277,False,G3,u056087481,p03493
+Time Limit Exceeded,Wrong Answer,244,False,G3,u056087481,p03493
+Time Limit Exceeded,Runtime Error,810,False,G4,u095200025,p03493
+Time Limit Exceeded,Runtime Error,3161,False,G4,u098959670,p03493
+Runtime Error,Runtime Error,244,False,G4,u098959670,p03493
+Runtime Error,Runtime Error,808,False,G4,u098959670,p03493
+Runtime Error,Runtime Error,102,False,G4,u098959670,p03493
+Time Limit Exceeded,Time Limit Exceeded,69,False,G3,u111940477,p03493
+Time Limit Exceeded,Time Limit Exceeded,110,False,G3,u111940477,p03493
+Time Limit Exceeded,Time Limit Exceeded,136,False,G3,u111940477,p03493
+Time Limit Exceeded,Time Limit Exceeded,19,False,G3,u111940477,p03493
+Time Limit Exceeded,Time Limit Exceeded,199,False,G2,u205356925,p03493
+Time Limit Exceeded,Compile Error,175,False,G2,u205356925,p03493
+Compile Error,Time Limit Exceeded,30,False,G2,u205356925,p03493
+Time Limit Exceeded,Time Limit Exceeded,120,False,G2,u205356925,p03493
+Time Limit Exceeded,Time Limit Exceeded,91,False,G2,u205356925,p03493
+Time Limit Exceeded,Time Limit Exceeded,110,False,G2,u205356925,p03493
+Time Limit Exceeded,Time Limit Exceeded,443,False,G3,u227807918,p03493
+Time Limit Exceeded,Time Limit Exceeded,273,False,G3,u227807918,p03493
+Time Limit Exceeded,Time Limit Exceeded,212,False,G3,u227807918,p03493
+Time Limit Exceeded,Time Limit Exceeded,277,False,G3,u227807918,p03493
+Time Limit Exceeded,Time Limit Exceeded,585,False,G3,u227807918,p03493
+Time Limit Exceeded,Time Limit Exceeded,284,False,G4,u287821360,p03493
+Time Limit Exceeded,Wrong Answer,152,False,G4,u287821360,p03493
+Wrong Answer,Compile Error,61,False,G4,u287821360,p03493
+Compile Error,Wrong Answer,41,False,G4,u287821360,p03493
+Wrong Answer,Runtime Error,78,False,G4,u287821360,p03493
+Time Limit Exceeded,Wrong Answer,954,False,G6,u328811800,p03493
+Wrong Answer,Wrong Answer,269,False,G6,u328811800,p03493
+Wrong Answer,Wrong Answer,154,False,G6,u328811800,p03493
+Time Limit Exceeded,Time Limit Exceeded,5253,False,G2,u369158859,p03493
+Time Limit Exceeded,Wrong Answer,89,False,G3,u416413094,p03493
+Time Limit Exceeded,Compile Error,288,False,G2,u431190928,p03493
+Compile Error,Compile Error,4686,False,G2,u431190928,p03493
+Compile Error,Compile Error,9241,False,G2,u431190928,p03493
+Time Limit Exceeded,Time Limit Exceeded,238,False,G6,u493750228,p03493
+Time Limit Exceeded,Accepted,142,False,G6,u495699318,p03493
+Time Limit Exceeded,Accepted,294,False,G2,u534578230,p03493
+Time Limit Exceeded,Wrong Answer,584,False,G6,u551408542,p03493
+Wrong Answer,Time Limit Exceeded,129,False,G6,u551408542,p03493
+Time Limit Exceeded,Time Limit Exceeded,475,False,G2,u664432299,p03493
+Time Limit Exceeded,Accepted,67,False,G5,u691912637,p03501
+Time Limit Exceeded,Wrong Answer,292,False,G3,u103978440,p03543
+Wrong Answer,Accepted,96,False,G3,u103978440,p03543
+Time Limit Exceeded,Compile Error,2254,False,G3,u190239942,p03543
+Compile Error,Runtime Error,48,False,G3,u190239942,p03543
+Time Limit Exceeded,Time Limit Exceeded,117,False,G4,u537865838,p03543
+Time Limit Exceeded,Accepted,140,False,G4,u537865838,p03543
+Time Limit Exceeded,Accepted,265,False,G5,u546943614,p03547
+Time Limit Exceeded,Wrong Answer,2022,True,,u007708676,p03555
+Wrong Answer,Wrong Answer,313,False,,u007708676,p03555
+Wrong Answer,Time Limit Exceeded,229,False,,u007708676,p03555
+Time Limit Exceeded,Wrong Answer,142,False,,u007708676,p03555
+Wrong Answer,Wrong Answer,114,False,,u007708676,p03555
+Wrong Answer,Wrong Answer,75,False,,u007708676,p03555
+Wrong Answer,Wrong Answer,97,False,,u007708676,p03555
+Wrong Answer,Wrong Answer,86,False,,u007708676,p03555
+Time Limit Exceeded,Time Limit Exceeded,434,False,G2,u195092093,p03555
+Time Limit Exceeded,Time Limit Exceeded,32,False,G3,u351320667,p03555
+Time Limit Exceeded,Wrong Answer,3014,False,G2,u413957355,p03555
+Wrong Answer,Wrong Answer,122,False,G2,u413957355,p03555
+Wrong Answer,Accepted,259,False,G2,u413957355,p03555
+Time Limit Exceeded,Accepted,37,False,G6,u443010331,p03555
+Time Limit Exceeded,Accepted,131,False,G5,u506205196,p03555
+Time Limit Exceeded,Compile Error,1564,False,G3,u575189760,p03555
+Time Limit Exceeded,Time Limit Exceeded,129,False,G3,u627247474,p03555
+Time Limit Exceeded,Wrong Answer,2598,False,G3,u627247474,p03555
+Wrong Answer,Wrong Answer,950,False,G3,u627247474,p03555
+Wrong Answer,Wrong Answer,296,False,G3,u627247474,p03555
+Wrong Answer,Accepted,152,False,G3,u627247474,p03555
+Time Limit Exceeded,Accepted,146,False,G4,u352379842,p03563
+Time Limit Exceeded,Time Limit Exceeded,231,False,G2,u839645629,p03563
+Time Limit Exceeded,Time Limit Exceeded,73,False,G2,u839645629,p03563
+Time Limit Exceeded,Time Limit Exceeded,144,False,G2,u839645629,p03563
+Time Limit Exceeded,Accepted,265,False,G2,u839645629,p03563
+Time Limit Exceeded,Time Limit Exceeded,144,False,G5,u495267515,p03573
+Time Limit Exceeded,Compile Error,99,False,G5,u495267515,p03573
+Compile Error,Wrong Answer,34,False,G5,u495267515,p03573
+Wrong Answer,Accepted,172,False,G5,u495267515,p03573
+Time Limit Exceeded,Accepted,119,False,,u352135235,p03597
+Time Limit Exceeded,Time Limit Exceeded,23,False,G5,u719950507,p03597
+Time Limit Exceeded,Time Limit Exceeded,37,False,G5,u719950507,p03597
+Time Limit Exceeded,Time Limit Exceeded,101,False,G5,u719950507,p03597
+Time Limit Exceeded,Accepted,3973,False,G6,u863370423,p03597
+Time Limit Exceeded,Time Limit Exceeded,206,False,G3,u080112718,p03605
+Time Limit Exceeded,Time Limit Exceeded,109,False,G3,u080112718,p03605
+Time Limit Exceeded,Accepted,229,False,G3,u080112718,p03605
+Time Limit Exceeded,Accepted,214,False,G4,u100499821,p03605
+Time Limit Exceeded,Accepted,78,False,G4,u374397302,p03605
+Time Limit Exceeded,Accepted,499,False,G3,u376161444,p03605
+Time Limit Exceeded,Accepted,56,False,G4,u417207225,p03605
+Time Limit Exceeded,Accepted,51,False,G4,u418977308,p03605
+Time Limit Exceeded,Time Limit Exceeded,52,False,G4,u452211832,p03605
+Time Limit Exceeded,Accepted,104,False,G6,u476418095,p03605
+Time Limit Exceeded,Accepted,96,False,G6,u608258653,p03605
+Time Limit Exceeded,Accepted,76,False,G4,u790326558,p03605
+Time Limit Exceeded,Accepted,172,False,G3,u827533600,p03605
+Time Limit Exceeded,Accepted,233,False,G6,u872191059,p03605
+Time Limit Exceeded,Accepted,119,False,G4,u927833865,p03605
+Time Limit Exceeded,Compile Error,584,False,G3,u347443975,p03609
+Compile Error,Time Limit Exceeded,137,False,G3,u347443975,p03609
+Time Limit Exceeded,Time Limit Exceeded,89,False,G3,u347443975,p03609
+Time Limit Exceeded,Time Limit Exceeded,211,False,G3,u347443975,p03609
+Time Limit Exceeded,Time Limit Exceeded,85,False,G3,u347443975,p03609
+Time Limit Exceeded,Accepted,235,False,G3,u347443975,p03609
+Time Limit Exceeded,Accepted,152,False,G4,u373593739,p03609
+Time Limit Exceeded,Accepted,147,False,G4,u692218384,p03609
+Time Limit Exceeded,Time Limit Exceeded,218,False,G5,u699888017,p03609
+Time Limit Exceeded,Time Limit Exceeded,133,False,G5,u699888017,p03609
+Time Limit Exceeded,Time Limit Exceeded,115,False,G2,u012953098,p03623
+Time Limit Exceeded,Compile Error,186,False,G2,u012953098,p03623
+Compile Error,Compile Error,34,False,G2,u012953098,p03623
+Compile Error,Time Limit Exceeded,201,False,G2,u012953098,p03623
+Time Limit Exceeded,Time Limit Exceeded,129,False,G2,u012953098,p03623
+Time Limit Exceeded,Time Limit Exceeded,430,False,G2,u012953098,p03623
+Time Limit Exceeded,Accepted,1022,False,G2,u012953098,p03623
+Time Limit Exceeded,Time Limit Exceeded,230,False,G5,u535810324,p03623
+Time Limit Exceeded,Accepted,225,False,G4,u580996582,p03631
+Time Limit Exceeded,Accepted,98,False,G2,u292652821,p03635
+Time Limit Exceeded,Accepted,838,False,G2,u109925264,p03643
+Time Limit Exceeded,Accepted,89,False,G4,u774910314,p03643
+Time Limit Exceeded,Time Limit Exceeded,399,False,G6,u828388155,p03643
+Time Limit Exceeded,Accepted,81,False,G2,u067805914,p03657
+Time Limit Exceeded,Accepted,37,False,G6,u095714878,p03657
+Time Limit Exceeded,Time Limit Exceeded,470,False,G4,u686059607,p03657
+Time Limit Exceeded,Wrong Answer,3302,False,G4,u686059607,p03657
+Wrong Answer,Time Limit Exceeded,127,False,G4,u686059607,p03657
+Time Limit Exceeded,Time Limit Exceeded,224,False,G6,u089230684,p03671
+Time Limit Exceeded,Accepted,244,False,G6,u089230684,p03671
+Time Limit Exceeded,Accepted,44,False,G4,u817240026,p03671
+Time Limit Exceeded,Time Limit Exceeded,59,False,G1,u449640915,p03693
+Time Limit Exceeded,Time Limit Exceeded,193,False,G1,u449640915,p03693
+Time Limit Exceeded,Compile Error,1233,False,G4,u566640130,p03693
+Compile Error,Time Limit Exceeded,395,False,G4,u566640130,p03693
+Time Limit Exceeded,Time Limit Exceeded,31,False,G4,u566640130,p03693
+Time Limit Exceeded,Accepted,282,False,G4,u566640130,p03693
+Time Limit Exceeded,Accepted,255,False,G4,u489346725,p03697
+Time Limit Exceeded,Accepted,56,False,G6,u607741489,p03697
+Time Limit Exceeded,Accepted,1149,False,G6,u872191059,p03697
+Time Limit Exceeded,Wrong Answer,107,False,G6,u168774513,p03711
+Wrong Answer,Accepted,139,False,G6,u168774513,p03711
+Time Limit Exceeded,Compile Error,57,False,G3,u240452611,p03711
+Compile Error,Accepted,40,False,G3,u240452611,p03711
+Time Limit Exceeded,Accepted,290,False,G2,u408905958,p03711
+Time Limit Exceeded,Wrong Answer,68,False,G1,u449640915,p03719
+Time Limit Exceeded,Accepted,47,False,G6,u292252214,p03737
+Time Limit Exceeded,Wrong Answer,3767,False,G6,u751488284,p03737
+Wrong Answer,Wrong Answer,925,False,G6,u751488284,p03737
+Wrong Answer,Compile Error,209,False,G6,u751488284,p03737
+Compile Error,Accepted,62,False,G6,u751488284,p03737
+Time Limit Exceeded,Time Limit Exceeded,137,False,G4,u875541682,p03737
+Time Limit Exceeded,Accepted,570,False,G4,u875541682,p03737
+Time Limit Exceeded,Accepted,135,False,G3,u357661346,p03759
+Time Limit Exceeded,Accepted,151,False,G6,u054009936,p03777
+Time Limit Exceeded,Time Limit Exceeded,108,False,G6,u581022379,p03777
+Time Limit Exceeded,Accepted,244,False,G2,u895436428,p03777
+Time Limit Exceeded,Accepted,159,False,G6,u089230684,p03795
+Time Limit Exceeded,Wrong Answer,282,False,G3,u496427873,p03795
+Time Limit Exceeded,Time Limit Exceeded,150,False,,u660844212,p03795
+Time Limit Exceeded,Accepted,53,False,G5,u819160021,p03795
+Time Limit Exceeded,Wrong Answer,1175,False,G6,u353919145,p03803
+Wrong Answer,Accepted,660,False,G6,u353919145,p03803
+Time Limit Exceeded,Wrong Answer,4683,False,G6,u089230684,p03813
+Time Limit Exceeded,Accepted,129,False,G5,u023463844,p03834
+Time Limit Exceeded,Wrong Answer,43,False,G2,u129632905,p03834
+Wrong Answer,Wrong Answer,89,False,G2,u129632905,p03834
+Wrong Answer,Compile Error,148,False,G2,u129632905,p03834
+Compile Error,Compile Error,70,False,G2,u129632905,p03834
+Compile Error,Accepted,392,False,G2,u129632905,p03834
+Time Limit Exceeded,Compile Error,259,False,G4,u183987726,p03834
+Compile Error,Wrong Answer,47,False,G4,u183987726,p03834
+Wrong Answer,Accepted,77,False,G4,u183987726,p03834
+Time Limit Exceeded,Accepted,86,False,G3,u347177245,p03834
+Time Limit Exceeded,Accepted,96,False,G3,u417660734,p03834
+Time Limit Exceeded,Accepted,508,False,G1,u427453787,p03834
+Time Limit Exceeded,Accepted,12812,False,G6,u476418095,p03834
+Time Limit Exceeded,Accepted,1017,False,G4,u723559537,p03834
+Time Limit Exceeded,Time Limit Exceeded,95,False,G6,u917972976,p03834
+Time Limit Exceeded,Time Limit Exceeded,49,False,G6,u917972976,p03834
+Time Limit Exceeded,Accepted,2097,False,G6,u917972976,p03834
+Time Limit Exceeded,Time Limit Exceeded,747,False,G2,u236824845,p03844
+Time Limit Exceeded,Accepted,1607,False,G3,u725515700,p03844
+Time Limit Exceeded,Accepted,2309,False,G2,u540113577,p03852
+Time Limit Exceeded,Accepted,5069,False,G6,u089230684,p03860
+Time Limit Exceeded,Accepted,92,False,G5,u460185449,p03860
+Time Limit Exceeded,Accepted,230,False,,u480815587,p03860
+Time Limit Exceeded,Accepted,127,False,G6,u723721005,p03860
+Time Limit Exceeded,Wrong Answer,86,False,G3,u848499508,p03860
+Time Limit Exceeded,Accepted,79,False,G6,u898331860,p03860
+Time Limit Exceeded,Accepted,115,False,G4,u831695469,p03943
+Time Limit Exceeded,Time Limit Exceeded,118,False,G2,u417228321,p03962
+Time Limit Exceeded,Wrong Answer,498,False,G2,u417228321,p03962
+Wrong Answer,Accepted,1577,False,G2,u417228321,p03962
+Time Limit Exceeded,Accepted,3069,False,G5,u332253305,p03997
+Time Limit Exceeded,Compile Error,215,False,G4,u159819771,p04011
+Compile Error,Accepted,101,False,G4,u159819771,p04011
+Time Limit Exceeded,Accepted,417,False,G3,u239634588,p04011
+Time Limit Exceeded,Accepted,65,False,G3,u424661377,p04011
+Time Limit Exceeded,Accepted,612,False,G1,u880007540,p04011
+Time Limit Exceeded,Wrong Answer,50,False,G4,u005570675,p04029
+Wrong Answer,Wrong Answer,52,False,G4,u005570675,p04029
+Wrong Answer,Wrong Answer,38,False,G4,u005570675,p04029
+Wrong Answer,Accepted,46,False,G4,u005570675,p04029
+Time Limit Exceeded,Wrong Answer,87,False,G3,u249546633,p04029
+Wrong Answer,Accepted,44,False,G3,u249546633,p04029
+Time Limit Exceeded,Runtime Error,116,False,G4,u367480514,p04029
+Runtime Error,Runtime Error,42,False,G4,u367480514,p04029
+Runtime Error,Wrong Answer,88,False,G4,u367480514,p04029
+Wrong Answer,Wrong Answer,34,False,G4,u367480514,p04029
+Wrong Answer,Accepted,31,False,G4,u367480514,p04029
+Time Limit Exceeded,Accepted,86,False,G4,u534417782,p04029
+Time Limit Exceeded,Wrong Answer,116,False,G3,u584169254,p04029
+Wrong Answer,Wrong Answer,54,False,G3,u584169254,p04029
+Wrong Answer,Wrong Answer,165,False,G3,u584169254,p04029
+Wrong Answer,Accepted,116,False,G3,u584169254,p04029
+Time Limit Exceeded,Accepted,105,False,G2,u698375425,p04029
+Time Limit Exceeded,Accepted,43,False,G3,u741515652,p04029
+Time Limit Exceeded,Wrong Answer,9416,False,G6,u816631826,p04029
+Wrong Answer,Runtime Error,18171,False,G6,u816631826,p04029
+Time Limit Exceeded,Accepted,575,False,G6,u863370423,p04029
+Time Limit Exceeded,Wrong Answer,11669,False,G6,u018679195,p04043
+Wrong Answer,Accepted,6415,False,G6,u018679195,p04043
+Time Limit Exceeded,Wrong Answer,13571,False,G5,u165267345,p04043
+Time Limit Exceeded,Time Limit Exceeded,318,False,G2,u353789691,p04043
+Time Limit Exceeded,Accepted,941,False,,u664031692,p04043
+Time Limit Exceeded,Accepted,89,False,G6,u801102476,p04043
+Time Limit Exceeded,Accepted,1571,False,G4,u821262411,p04043
+Time Limit Exceeded,Accepted,208,False,G6,u863370423,p04043

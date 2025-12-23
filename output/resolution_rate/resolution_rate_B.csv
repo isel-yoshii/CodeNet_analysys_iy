@@ -1,0 +1,81 @@
+group,RJ_pattern,total_users,solved_users,resolution_rate
+G2,Compile Error,1868,1507,0.807
+G2,Compile Error+Runtime Error,329,211,0.641
+G2,Compile Error+Runtime Error+Time Limit Exceeded,15,13,0.867
+G2,Compile Error+Runtime Error+Time Limit Exceeded+Wrong Answer,19,15,0.789
+G2,Compile Error+Runtime Error+Wrong Answer,317,223,0.703
+G2,Compile Error+Time Limit Exceeded,66,45,0.682
+G2,Compile Error+Time Limit Exceeded+Wrong Answer,104,73,0.702
+G2,Compile Error+Wrong Answer,2200,1603,0.729
+G2,Runtime Error,2256,1656,0.734
+G2,Runtime Error+Time Limit Exceeded,70,43,0.614
+G2,Runtime Error+Time Limit Exceeded+Wrong Answer,88,56,0.636
+G2,Runtime Error+Wrong Answer,1411,1049,0.743
+G2,Time Limit Exceeded,467,292,0.625
+G2,Time Limit Exceeded+Wrong Answer,384,270,0.703
+G2,Wrong Answer,11372,8381,0.737
+G2,TOTAL,20966,15437,0.736
+G3,Compile Error,3349,2932,0.875
+G3,Compile Error+Runtime Error,482,340,0.705
+G3,Compile Error+Runtime Error+Time Limit Exceeded,20,16,0.800
+G3,Compile Error+Runtime Error+Time Limit Exceeded+Wrong Answer,51,38,0.745
+G3,Compile Error+Runtime Error+Wrong Answer,582,455,0.782
+G3,Compile Error+Time Limit Exceeded,115,82,0.713
+G3,Compile Error+Time Limit Exceeded+Wrong Answer,223,175,0.785
+G3,Compile Error+Wrong Answer,4153,3243,0.781
+G3,Runtime Error,5815,4715,0.811
+G3,Runtime Error+Time Limit Exceeded,196,120,0.612
+G3,Runtime Error+Time Limit Exceeded+Wrong Answer,354,264,0.746
+G3,Runtime Error+Wrong Answer,3640,2953,0.811
+G3,Time Limit Exceeded,1723,1307,0.759
+G3,Time Limit Exceeded+Wrong Answer,1335,991,0.742
+G3,Wrong Answer,34469,28251,0.820
+G3,TOTAL,56507,45882,0.812
+G4,Compile Error,5606,5291,0.944
+G4,Compile Error+Runtime Error,528,437,0.828
+G4,Compile Error+Runtime Error+Time Limit Exceeded,25,21,0.840
+G4,Compile Error+Runtime Error+Time Limit Exceeded+Wrong Answer,79,64,0.810
+G4,Compile Error+Runtime Error+Wrong Answer,632,531,0.840
+G4,Compile Error+Time Limit Exceeded,136,112,0.824
+G4,Compile Error+Time Limit Exceeded+Wrong Answer,303,258,0.851
+G4,Compile Error+Wrong Answer,5540,4834,0.873
+G4,Runtime Error,8220,7446,0.906
+G4,Runtime Error+Time Limit Exceeded,258,219,0.849
+G4,Runtime Error+Time Limit Exceeded+Wrong Answer,457,380,0.832
+G4,Runtime Error+Wrong Answer,4842,4310,0.890
+G4,Time Limit Exceeded,2781,2473,0.889
+G4,Time Limit Exceeded+Wrong Answer,1939,1708,0.881
+G4,Wrong Answer,58657,53338,0.909
+G4,TOTAL,90003,81422,0.905
+G5,Compile Error,4614,4502,0.976
+G5,Compile Error+Runtime Error,329,304,0.924
+G5,Compile Error+Runtime Error+Time Limit Exceeded,17,15,0.882
+G5,Compile Error+Runtime Error+Time Limit Exceeded+Wrong Answer,43,41,0.953
+G5,Compile Error+Runtime Error+Wrong Answer,385,356,0.925
+G5,Compile Error+Time Limit Exceeded,88,81,0.920
+G5,Compile Error+Time Limit Exceeded+Wrong Answer,171,155,0.906
+G5,Compile Error+Wrong Answer,3794,3504,0.924
+G5,Runtime Error,6256,6005,0.960
+G5,Runtime Error+Time Limit Exceeded,162,147,0.907
+G5,Runtime Error+Time Limit Exceeded+Wrong Answer,267,242,0.906
+G5,Runtime Error+Wrong Answer,3635,3422,0.941
+G5,Time Limit Exceeded,2124,2022,0.952
+G5,Time Limit Exceeded+Wrong Answer,1414,1338,0.946
+G5,Wrong Answer,48673,46400,0.953
+G5,TOTAL,71972,68534,0.952
+G6,Compile Error,6605,6512,0.986
+G6,Compile Error+Runtime Error,306,294,0.961
+G6,Compile Error+Runtime Error+Time Limit Exceeded,14,12,0.857
+G6,Compile Error+Runtime Error+Time Limit Exceeded+Wrong Answer,23,22,0.957
+G6,Compile Error+Runtime Error+Wrong Answer,300,282,0.940
+G6,Compile Error+Time Limit Exceeded,79,76,0.962
+G6,Compile Error+Time Limit Exceeded+Wrong Answer,146,141,0.966
+G6,Compile Error+Wrong Answer,3737,3600,0.963
+G6,Runtime Error,5447,5347,0.982
+G6,Runtime Error+Time Limit Exceeded,107,105,0.981
+G6,Runtime Error+Time Limit Exceeded+Wrong Answer,156,152,0.974
+G6,Runtime Error+Wrong Answer,2428,2353,0.969
+G6,Time Limit Exceeded,1473,1445,0.981
+G6,Time Limit Exceeded+Wrong Answer,927,897,0.968
+G6,Wrong Answer,48236,47098,0.976
+G6,TOTAL,69984,68336,0.976
